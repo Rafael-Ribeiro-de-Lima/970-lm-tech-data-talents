@@ -1,0 +1,2570 @@
+﻿;CodigoProblema;DescricaoProblema
+0;1307;Desistência de consorcio
+1;5369;Cobrança indevida/abusiva
+2;5157;Recusa injustificada em prestar serviço
+3;5760;Contrato - Rescisão/alteração unilateral
+4;;
+5;3671;Recusa injustificada em prestar serviço
+6;1110;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+7;5216;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+8;2656;Não entrega/demora na entrega do produto
+9;1566;Publicidade enganosa
+10;1126;Cobrança indevida.
+11;3845;Contrato - Rescisão/alteração unilateral
+12;3744;Cobrança indevida/abusiva
+13;7104;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+15;2497;Produto com vício
+16;2502;Produto com vício
+17;4993;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+18;2550;Produto com vício
+19;7121;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+20;2490;Produto com vício
+22;1137;Cobrança indevida.
+23;5801;Contrato - Clausula abusiva/em desacordo com a Legislação.
+24;2503;Produto com vício
+25;6835;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+26;6834;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+27;1139;Cobrança indevida.
+28;2495;Produto com vício
+29;5513;Venda/Oferta/publicidade enganosa.
+30;6630;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+32;3742;Cobrança indevida/abusiva
+35;7230;Defeito/Risco à saúde e segurança
+36;3746;Cobrança indevida/abusiva
+37;5014;Serviço não concluído /Fornecimento parcial
+39;5482;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+41;1099;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+42;1619;Venda casada
+43;1117;Cobrança indevida.
+44;1118;Cobrança indevida.
+45;2925;Venda enganosa
+46;1062;Envio de produto ou serviço sem previa solicitação
+47;1085;Envio de produto ou serviço sem previa solicitação
+48;6915;Crédito Consignado
+50;5924;Reajuste anual
+51;1701;Consumidor negativado indevidamente nos serviços de proteção ao credito
+52;5730;Contrato - Rescisão/alteração unilateral
+53;1112;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+54;6109;Transação Eletrônica Não Reconhecida
+55;5448;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+56;2524;Produto com vício
+61;5004;Serviço não concluído /Fornecimento parcial
+63;7266;Defeito/Risco à saúde e segurança
+64;2675;Não entrega/demora na entrega do produto
+66;3162;Desistência de compra (cancelamento de compra)
+67;3068;Produto entregue incompleto
+68;3410;Compra de veiculo (multa, transferência, alienação, não entrega de documentação)
+70;2345;Garantia (Abrangência, cobertura, etc.)
+71;1091;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+72;2291;Não cumprimento do contrato/proposta
+73;7071;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+75;1569;Publicidade enganosa
+79;3661;Serviço em desacordo com norma/lei
+80;5081;Dano material/pessoal decorrente do serviço
+81;5402;Cobrança indevida/abusiva
+83;2118;Loteamento irregular
+87;3848;Contrato - Clausula abusiva/em desacordo com a Legislação.
+93;5405;Cobrança indevida/abusiva
+94;7314;Defeito/Risco à saúde e segurança
+95;6143;Não Entrega de Produto
+96;1128;Cobrança indevida.
+97;6925;Crédito Consignado
+98;3225;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+99;1116;Cobrança indevida.
+100;6938;Crédito Consignado
+103;1089;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+104;1090;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+105;5015;Serviço não concluído /Fornecimento parcial
+110;6652;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+111;5763;Contrato - Rescisão/alteração unilateral
+112;2489;Produto com vício
+116;5399;Cobrança indevida/abusiva
+118;5747;Contrato - Rescisão/alteração unilateral
+119;6082;Antecipação de Financiamento
+120;1098;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+124;1134;Cobrança indevida.
+125;3623;Vicio de qualidade (mal executado, inadequado, impróprio)
+126;3678;Recusa injustificada em prestar serviço
+127;3876;Não pagamento de indenização
+128;3745;Cobrança indevida/abusiva
+129;4045;Descumprimento de garantia pelo convênio medico (guia)
+130;1191;Calculo de prestação/taxa de juros
+131;2282;Duvidas sobre cobranças (taxas, etc.)
+133;5057;Dano material/pessoal decorrente do serviço
+135;5317;Desistência do serviço (artigo 49 - descumprimento)
+136;2668;Não entrega/demora na entrega do produto
+140;6745;Portabilidade numérica
+141;5339;Garantia - Descumprimento, prazo
+142;2532;Produto com vício
+147;2525;Produto com vício
+151;3500;Procedimento de cobrança violenta/difamatória
+152;1125;Cobrança indevida.
+160;2661;Não entrega/demora na entrega do produto
+164;2614;Não entrega/demora na entrega do produto
+165;1359;Reajuste de saldo de caixa/diferença de prestação
+166;6722;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+167;3637;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+169;7493;Irregularidade na rotulagem (falta de dados, dados ilegíveis, outros)
+171;3645;Serviço não concluído /Fornecimento parcial
+174;6723;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+177;4290;Danos pessoais ao consumidor
+182;3356;Produto causou danos materiais
+183;3635;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+185;2620;Não entrega/demora na entrega do produto
+187;1169;Calculo de prestação/taxa de juros
+189;1120;Cobrança indevida.
+190;1982;Falha bancaria em transações eletrônicas (transferencias indevidas, saques indevidos)
+191;2628;Não entrega/demora na entrega do produto
+193;2787;Publicidade enganosa
+196;4988;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+199;6105;Antecipação de Financiamento
+205;2546;Produto com vício
+206;1863;Discordância quanto as avarias
+207;1195;Calculo de antecipação de prestação
+211;2647;Não entrega/demora na entrega do produto
+212;1834;Não pagamento de indenização (seguros em geral)
+214;2339;Garantia (Abrangência, cobertura, etc.)
+215;4495;Falta de assistência técnica/garantia
+216;2617;Não entrega/demora na entrega do produto
+217;1115;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+219;2159;Não execução de obras de infra-estrutura e benfeitorias
+225;3217;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+231;2629;Não entrega/demora na entrega do produto
+232;6667;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+233;3924;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+234;5764;Contrato - Rescisão/alteração unilateral
+235;7144;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+236;5410;Cobrança abusiva mediante constrangimento, ameaça.
+237;2588;Produto entregue diferente do pedido
+240;2535;Produto com vício
+241;3344;Produto causou danos materiais
+242;2016;Não pagamento de indenização
+244;4937;Vicio de qualidade (mal executado, inadequado, impróprio)
+245;5883;Não pagamento de indenização
+249;3650;Dano material/pessoal decorrente do serviço
+255;1722;Consumidor negativado indevidamente nos serviços de proteção ao credito
+258;7074;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+259;2970;Demora na montagem/montagem incompleta/incorreta
+261;5390;Cobrança indevida/abusiva
+262;3646;Serviço não concluído /Fornecimento parcial
+267;6735;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+270;3844;Contrato - Rescisão/alteração unilateral
+271;3227;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+272;3634;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+278;4919;Vicio de qualidade (mal executado, inadequado, impróprio)
+284;3621;Vicio de qualidade (mal executado, inadequado, impróprio)
+286;5738;Contrato - Rescisão/alteração unilateral
+287;3216;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+288;1959;Falha bancaria em transações eletrônicas (transferencias indevidas, saques indevidos)
+289;3841;Contrato - Rescisão/alteração unilateral
+291;4952;Vicio de qualidade (mal executado, inadequado, impróprio)
+297;4974;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+317;7245;Defeito/Risco à saúde e segurança
+318;2493;Produto com vício
+320;7226;Defeito/Risco à saúde e segurança
+324;2754;Publicidade enganosa
+325;4422;Preço do produto/serviço
+326;5123;Serviço em desacordo com norma/lei
+327;1168;Calculo de prestação/taxa de juros
+328;7223;Defeito/Risco à saúde e segurança
+329;2290;Não cumprimento do contrato/proposta
+332;2269;Cobrança de multa acima do permitido pela legislação (atraso no pag. de prestação/aluguel/condomínio)
+333;2765;Publicidade enganosa
+335;5571;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+336;6757;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+340;3222;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+342;7152;Tarifa de Cartão de Crédito – Cobrança Indevida (anuidade, 2ª via, etc.)
+343;1142;Cobrança indevida.
+344;2491;Produto com vício
+345;1851;Discordância na indenização (seguros em geral)
+346;3735;Garantia - Descumprimento, prazo
+347;2038;Não pagamento de indenização
+350;1932;Falha bancaria (cheques, ordem de pagamento, etc.)
+351;6888;Fila em Banco
+354;2659;Não entrega/demora na entrega do produto
+359;5673;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+360;1114;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+361;1072;Envio de produto ou serviço sem previa solicitação
+362;1141;Cobrança indevida.
+367;2875;Venda enganosa
+369;2672;Não entrega/demora na entrega do produto
+372;5751;Contrato - Rescisão/alteração unilateral
+373;5141;Recusa injustificada em prestar serviço
+374;1986;Cobrança de honorários advocaticios, despesa de cobrança
+379;5041;Serviço não concluído /Fornecimento parcial
+380;2676;Não entrega/demora na entrega do produto
+381;5206;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+382;3647;Serviço não concluído /Fornecimento parcial
+384;4996;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+387;7080;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+391;2538;Produto com vício
+393;1064;Envio de produto ou serviço sem previa solicitação
+402;6175;Vício do Produto/Serviço
+403;3656;Dano material/pessoal decorrente do serviço
+404;1960;Falha bancaria em transações eletrônicas (transferencias indevidas, saques indevidos)
+406;3161;Desistência de compra (cancelamento de compra)
+407;6716;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+411;3126;Desistência de compra (cancelamento de compra)
+413;1121;Cobrança indevida.
+414;1710;Consumidor negativado indevidamente nos serviços de proteção ao credito
+415;5177;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+418;5729;Contrato - Rescisão/alteração unilateral
+420;2494;Produto com vício
+422;2488;Produto com vício
+423;6836;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+425;2523;Produto com vício
+428;1393;Não entrega de quitação/retenção de documentos
+429;3230;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+433;6857;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+435;1821;Não pagamento de indenização (seguros em geral)
+436;6690;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+437;3001;Falta de peca de reposição
+439;2317;Garantia (Abrangência, cobertura, etc.)
+445;5713;Roubo/furto
+446;4959;Vicio de qualidade (mal executado, inadequado, impróprio)
+447;2554;Produto entregue diferente do pedido
+449;3131;Desistência de compra (cancelamento de compra)
+451;1933;Falha bancaria (cheques, ordem de pagamento, etc.)
+453;5366;Cobrança indevida/abusiva
+454;2498;Produto com vício
+456;6758;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+458;2536;Produto com vício
+460;2350;Garantia (Abrangência, cobertura, etc.)
+467;6783;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+468;2878;Venda enganosa
+469;5144;Recusa injustificada em prestar serviço
+471;7265;Defeito/Risco à saúde e segurança
+474;3476;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+478;6055;Lançamento Não Reconhecido na Fatura
+482;3195;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+483;5406;Cobrança indevida/abusiva
+484;1223;Calculo de prestação em atraso
+485;2806;Publicidade abusiva
+487;2325;Garantia (Abrangência, cobertura, etc.)
+489;2654;Não entrega/demora na entrega do produto
+490;5019;Serviço não concluído /Fornecimento parcial
+492;5183;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+498;2496;Produto com vício
+500;2613;Produto entregue diferente do pedido
+502;2540;Produto com vício
+504;2512;Produto com vício
+508;1627;Venda enganosa
+512;4770;Presença de sujidades/corpos estranhos
+513;5727;Contrato - Rescisão/alteração unilateral
+514;5737;Contrato - Rescisão/alteração unilateral
+516;2879;Venda enganosa
+517;5370;Cobrança indevida/abusiva
+523;2526;Produto com vício
+524;2318;Garantia (Abrangência, cobertura, etc.)
+525;1724;Consumidor negativado indevidamente nos serviços de proteção ao credito
+527;3837;Contrato - Rescisão/alteração unilateral
+528;3625;Vicio de qualidade (mal executado, inadequado, impróprio)
+533;5889;Não pagamento de indenização
+534;2492;Produto com vício
+541;2500;Produto com vício
+544;1224;Calculo de prestação em atraso
+549;6724;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+550;1170;Calculo de prestação/taxa de juros
+554;2549;Produto com vício
+555;3481;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+559;3180;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+561;2521;Produto com vício
+563;1245;Calculo de prestação em atraso
+564;2750;Publicidade enganosa
+565;2785;Publicidade enganosa
+568;2365;Garantia (Abrangência, cobertura, etc.)
+571;1384;Não entrega de quitação/retenção de documentos
+573;2324;Garantia (Abrangência, cobertura, etc.)
+578;7221;Defeito/Risco à saúde e segurança
+579;2623;Não entrega/demora na entrega do produto
+581;3043;Falta de peca de reposição
+582;2542;Produto com vício
+584;3847;Contrato - Clausula abusiva/em desacordo com a Legislação.
+588;3959;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+590;6863;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+591;2341;Garantia (Abrangência, cobertura, etc.)
+594;2646;Não entrega/demora na entrega do produto
+597;4933;Vicio de qualidade (mal executado, inadequado, impróprio)
+599;3628;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+600;1132;Cobrança indevida.
+601;6720;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+602;1646;Venda enganosa
+608;3658;Dano material/pessoal decorrente do serviço
+614;6982;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+615;2666;Não entrega/demora na entrega do produto
+616;2674;Não entrega/demora na entrega do produto
+617;6148;Não Entrega de Produto
+619;5574;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+621;6650;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+630;5365;Garantia - Descumprimento, prazo
+635;5040;Serviço não concluído /Fornecimento parcial
+636;1131;Cobrança indevida.
+637;5460;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+642;6916;Crédito Consignado
+643;3164;Desistência de compra (cancelamento de compra)
+649;4955;Vicio de qualidade (mal executado, inadequado, impróprio)
+651;2284;Duvidas sobre cobranças (taxas, etc.)
+652;3303;Acidente de Consumo (produto causou danos pessoais)
+653;5034;Serviço não concluído /Fornecimento parcial
+654;1703;Consumidor negativado indevidamente nos serviços de proteção ao credito
+661;7259;Defeito/Risco à saúde e segurança
+663;7256;Defeito/Risco à saúde e segurança
+669;2562;Produto entregue diferente do pedido
+679;6008;TOI - Termo de Ocorrência de Irregularidade
+682;4852;Não cumprimento à oferta
+686;2553;Produto entregue diferente do pedido
+688;1458;Valor de reajuste (mensalidade)
+690;2547;Produto com vício
+698;3433;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+703;2619;Não entrega/demora na entrega do produto
+706;4186;Publicidade abusiva
+709;5116;Serviço em desacordo com norma/lei
+713;3120;Desistência de compra (cancelamento de compra)
+715;2664;Não entrega/demora na entrega do produto
+730;4938;Vicio de qualidade (mal executado, inadequado, impróprio)
+732;5056;Dano material/pessoal decorrente do serviço
+734;5384;Cobrança indevida/abusiva
+737;6663;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+741;5771;Contrato - Clausula abusiva/em desacordo com a Legislação.
+742;4963;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+748;2633;Não entrega/demora na entrega do produto
+751;6712;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+754;3867;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+757;3757;Cobrança abusiva mediante constrangimento, ameaça.
+759;1136;Cobrança indevida.
+761;3053;Falta de peca de reposição
+772;7282;Defeito/Risco à saúde e segurança
+778;2519;Produto com vício
+779;1093;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+781;3843;Contrato - Rescisão/alteração unilateral
+782;6799;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+788;4979;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+795;6884;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+796;1885;Discordância quanto as avarias
+797;5440;Cobrança abusiva mediante constrangimento, ameaça.
+799;6761;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+800;6238;Negativa de Cobertura
+807;5358;Garantia - Descumprimento, prazo
+808;2501;Produto com vício
+809;6727;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+814;1277;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+821;7113;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+822;6070;Lançamento Não Reconhecido na Fatura
+823;3240;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+825;1914;Roubo de cartão
+826;3636;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+827;2182;Saldo devedor
+828;2218;Devolução de sinal, valores pagos (negocio não concretizado)
+835;2356;Garantia (Abrangência, cobertura, etc.)
+836;7084;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+841;7094;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+842;3194;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+844;3062;Produto entregue incompleto
+846;4948;Vicio de qualidade (mal executado, inadequado, impróprio)
+848;7273;Defeito/Risco à saúde e segurança
+851;7228;Defeito/Risco à saúde e segurança
+852;3091;Produto entregue incompleto
+853;2724;Peso/volume/quantidade/tamanho
+855;7085;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+856;7252;Defeito/Risco à saúde e segurança
+861;2826;Publicidade abusiva
+862;2202;Rescisão do contrato pela venda enganosa
+865;1130;Cobrança indevida.
+878;2635;Não entrega/demora na entrega do produto
+879;5075;Dano material/pessoal decorrente do serviço
+887;4978;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+896;3560;Não pagamento de indenização
+899;4984;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+903;6755;Desbloqueio de aparelho
+910;1518;Não pagamento de resgate (capitalização/ouro/compra)
+916;2552;Produto entregue diferente do pedido
+921;2336;Garantia (Abrangência, cobertura, etc.)
+922;6304;TOI - Termo de Ocorrência de Irregularidade
+926;6844;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+927;7107;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+928;5160;Recusa injustificada em prestar serviço
+933;1544;Publicidade enganosa
+939;2412;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+947;2533;Produto com vício
+948;2598;Produto entregue diferente do pedido
+954;5395;Cobrança indevida/abusiva
+956;2587;Produto entregue diferente do pedido
+960;5459;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+961;1643;Venda enganosa
+962;2530;Produto com vício
+967;2679;Peso/volume/quantidade/tamanho
+969;6681;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+970;5853;Não pagamento de indenização
+973;5451;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+974;3238;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+982;5054;Dano material/pessoal decorrente do serviço
+983;1597;Venda casada
+984;4934;Vicio de qualidade (mal executado, inadequado, impróprio)
+986;2649;Não entrega/demora na entrega do produto
+988;1980;Falha bancaria em transações eletrônicas (transferencias indevidas, saques indevidos)
+990;4445;Preço do produto/serviço
+993;2408;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+998;1553;Publicidade enganosa
+1002;3672;Recusa injustificada em prestar serviço
+1004;2816;Publicidade abusiva
+1005;4168;Publicidade enganosa
+1021;1276;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+1023;3779;Venda/Oferta/publicidade enganosa.
+1026;1106;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+1027;6759;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+1029;4594;Erro na elaboração de formula/produto em desacordo com a formula receita
+1031;4883;Não cumprimento à oferta
+1032;5287;Desistência do serviço (artigo 49 - descumprimento)
+1036;2308;Garantia (Abrangência, cobertura, etc.)
+1037;2310;Garantia (Abrangência, cobertura, etc.)
+1051;7031;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+1061;3856;Contrato - Clausula abusiva/em desacordo com a Legislação.
+1062;5021;Serviço não concluído /Fornecimento parcial
+1063;3815;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+1064;7216;Defeito/Risco à saúde e segurança
+1066;2755;Publicidade enganosa
+1070;2630;Não entrega/demora na entrega do produto
+1072;5534;Publicidade abusiva.
+1073;1969;Falha bancaria em transações eletrônicas (transferencias indevidas, saques indevidos)
+1075;5948;Reajuste anual
+1076;1231;Calculo de prestação em atraso
+1077;3737;Cobrança indevida/abusiva
+1081;2312;Garantia (Abrangência, cobertura, etc.)
+1084;3124;Desistência de compra (cancelamento de compra)
+1089;5124;Recusa injustificada em prestar serviço
+1090;3133;Desistência de compra (cancelamento de compra)
+1091;2626;Não entrega/demora na entrega do produto
+1094;3818;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+1098;3033;Falta de peca de reposição
+1107;3155;Desistência de compra (cancelamento de compra)
+1108;2346;Garantia (Abrangência, cobertura, etc.)
+1110;6111;Transação Eletrônica Não Reconhecida
+1113;4940;Vicio de qualidade (mal executado, inadequado, impróprio)
+1116;3766;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+1118;1218;Calculo de antecipação de prestação
+1119;2009;Cobrança de honorários advocaticios, despesa de cobrança
+1126;4123;Venda enganosa
+1128;2593;Produto entregue diferente do pedido
+1131;3199;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+1134;6855;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+1139;2759;Publicidade enganosa
+1142;3800;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+1143;2915;Venda enganosa
+1146;2581;Produto entregue diferente do pedido
+1149;5367;Cobrança indevida/abusiva
+1150;3755;Cobrança abusiva mediante constrangimento, ameaça.
+1152;2789;Publicidade enganosa
+1159;1570;Publicidade abusiva
+1173;5379;Cobrança indevida/abusiva
+1187;1109;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+1192;6862;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+1201;2840;Publicidade abusiva
+1205;5037;Serviço não concluído /Fornecimento parcial
+1206;7115;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+1211;2864;Publicidade abusiva
+1212;1096;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+1226;2640;Não entrega/demora na entrega do produto
+1228;3142;Desistência de compra (cancelamento de compra)
+1233;2909;Venda enganosa
+1238;7073;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+1242;2667;Não entrega/demora na entrega do produto
+1248;6779;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+1252;3152;Desistência de compra (cancelamento de compra)
+1255;2722;Peso/volume/quantidade/tamanho
+1266;6861;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+1275;4925;Vicio de qualidade (mal executado, inadequado, impróprio)
+1278;5381;Cobrança indevida/abusiva
+1282;3891;Rescisão/Substituição/Alteração de contrato de saúde
+1283;2363;Garantia (Abrangência, cobertura, etc.)
+1285;3839;Contrato - Rescisão/alteração unilateral
+1289;1861;Discordância na indenização (seguros em geral)
+1292;5407;Cobrança abusiva mediante constrangimento, ameaça.
+1298;2804;Publicidade abusiva
+1302;6056;Lançamento Não Reconhecido na Fatura
+1303;3680;Recusa injustificada em prestar serviço
+1308;2622;Não entrega/demora na entrega do produto
+1312;6691;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+1313;2304;Garantia (Abrangência, cobertura, etc.)
+1315;2884;Venda enganosa
+1317;5303;Desistência do serviço (artigo 49 - descumprimento)
+1319;3210;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+1327;2651;Não entrega/demora na entrega do produto
+1329;2965;Demora na montagem/montagem incompleta/incorreta
+1331;4246;Recusa/mau atendimento
+1332;2670;Não entrega/demora na entrega do produto
+1338;5284;Desistência do serviço (artigo 49 - descumprimento)
+1343;3957;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+1344;2843;Publicidade abusiva
+1346;6201;Vício do Produto/Serviço
+1351;4939;Vicio de qualidade (mal executado, inadequado, impróprio)
+1352;5045;Dano material/pessoal decorrente do serviço
+1361;1326;Desistência de consorcio
+1362;6873;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+1366;6205;Vício do Produto/Serviço
+1367;3237;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+1393;3778;Venda/Oferta/publicidade enganosa.
+1395;3768;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+1397;6734;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+1401;3287;Acidente de Consumo (produto causou danos pessoais)
+1414;1543;Publicidade enganosa
+1452;2528;Produto com vício
+1453;6769;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+1462;5148;Recusa injustificada em prestar serviço
+1465;1299;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+1471;1512;Não entrega do produto (titulo de capitalização, compra programada)
+1481;6973;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+1482;5951;Reajuste sem previsão contratual
+1487;5346;Garantia - Descumprimento, prazo
+1495;1538;Não pagamento de resgate (capitalização/ouro/compra)
+1498;1232;Calculo de prestação em atraso
+1501;3316;Produto causou danos materiais
+1502;3477;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+1506;4881;Não cumprimento à oferta
+1507;2168;Qualidade da construção (vícios, vazamentos, impermeabilização)
+1513;4420;Preço do produto/serviço
+1518;2874;Venda enganosa
+1526;5526;Venda/Oferta/publicidade enganosa.
+1528;2910;Venda enganosa
+1535;3056;Produto entregue incompleto
+1538;1105;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+1542;2203;Rescisão do contrato pela venda enganosa
+1543;6179;Vício do Produto/Serviço
+1552;1519;Não pagamento de resgate (capitalização/ouro/compra)
+1553;7100;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+1559;6694;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+1562;6575;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+1566;3136;Desistência de compra (cancelamento de compra)
+1576;6679;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+1578;5731;Contrato - Rescisão/alteração unilateral
+1582;6828;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+1583;5000;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+1586;2313;Garantia (Abrangência, cobertura, etc.)
+1588;7292;Acidente de Consumo (produto/serviço causou danos pessoais ao consumidor)
+1589;3898;Rescisão/Substituição/Alteração de contrato de saúde
+1590;2357;Garantia (Abrangência, cobertura, etc.)
+1591;5139;Recusa injustificada em prestar serviço
+1598;1088;Envio de produto ou serviço sem previa solicitação
+1600;3187;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+1602;5127;Recusa injustificada em prestar serviço
+1603;3234;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+1605;2305;Garantia (Abrangência, cobertura, etc.)
+1607;5804;Contrato - Clausula abusiva/em desacordo com a Legislação.
+1611;1620;Venda enganosa
+1617;150;Prazo de validade (falta, ilegível, etc.)
+1618;7235;Defeito/Risco à saúde e segurança
+1619;4972;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+1623;6176;Vício do Produto/Serviço
+1634;7243;Defeito/Risco à saúde e segurança
+1635;2753;Publicidade enganosa
+1637;6203;Vício do Produto/Serviço
+1638;3738;Cobrança indevida/abusiva
+1645;4007;Reajuste anual de contrato de saúde com percentual elevado
+1659;1711;Consumidor negativado indevidamente nos serviços de proteção ao credito
+1663;1303;Desistência de consorcio
+1664;5368;Cobrança indevida/abusiva
+1669;3057;Produto entregue incompleto
+1673;4213;Recusa/mau atendimento
+1674;2920;Venda enganosa
+1677;4317;Danos pessoais ao consumidor
+1679;1383;Não entrega de quitação/retenção de documentos
+1685;5325;Garantia - Descumprimento, prazo
+1712;2504;Produto com vício
+1714;4960;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+1717;2972;Demora na montagem/montagem incompleta/incorreta
+1720;5376;Cobrança indevida/abusiva
+1723;3613;Não pagamento de indenização
+1726;1178;Calculo de prestação/taxa de juros
+1727;2307;Garantia (Abrangência, cobertura, etc.)
+1731;2364;Garantia (Abrangência, cobertura, etc.)
+1732;2644;Não entrega/demora na entrega do produto
+1742;2289;Não cumprimento do contrato/proposta
+1743;3366;Produto causou danos materiais
+1744;2548;Produto com vício
+1745;1197;Calculo de antecipação de prestação
+1753;3598;Não pagamento de indenização
+1756;4975;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+1761;2527;Produto com vício
+1778;1095;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+1782;3069;Produto entregue incompleto
+1793;6708;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+1795;3659;Dano material/pessoal decorrente do serviço
+1796;2912;Venda enganosa
+1800;2747;Publicidade enganosa
+1827;2348;Garantia (Abrangência, cobertura, etc.)
+1831;3701;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+1834;2645;Não entrega/demora na entrega do produto
+1837;1777;Cobrança vexatória/difamatória
+1842;3643;Serviço não concluído /Fornecimento parcial
+1851;2029;Não pagamento de indenização
+1863;3233;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+1865;2316;Garantia (Abrangência, cobertura, etc.)
+1867;3923;Rescisão/Substituição/Alteração de contrato de saúde
+1873;2564;Produto entregue diferente do pedido
+1875;4335;Danos materiais ao consumidor
+1878;3937;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+1884;2612;Produto entregue diferente do pedido
+1885;1140;Cobrança indevida.
+1890;5180;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+1892;3690;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+1901;3624;Vicio de qualidade (mal executado, inadequado, impróprio)
+1931;4298;Danos pessoais ao consumidor
+1933;3657;Dano material/pessoal decorrente do serviço
+1939;2551;Produto entregue diferente do pedido
+1946;2616;Não entrega/demora na entrega do produto
+1948;1355;Fundo de reserva
+1951;2639;Não entrega/demora na entrega do produto
+1965;2959;Demora na montagem/montagem incompleta/incorreta
+1968;2219;Devolução de sinal, valores pagos (negocio não concretizado)
+1988;1404;Não entrega de quitação/retenção de documentos
+1998;6766;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+2001;6966;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+2005;249;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+2012;5478;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+2015;7321;Defeito/Risco à saúde e segurança
+2016;4936;Vicio de qualidade (mal executado, inadequado, impróprio)
+2017;3186;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+2028;2653;Não entrega/demora na entrega do produto
+2029;6151;Não Entrega de Produto
+2033;5807;Contrato - Clausula abusiva/em desacordo com a Legislação.
+2034;2927;Venda enganosa
+2044;6978;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+2047;2963;Demora na montagem/montagem incompleta/incorreta
+2053;6988;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+2062;4865;Não cumprimento à oferta
+2067;1092;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+2072;5060;Dano material/pessoal decorrente do serviço
+2074;4990;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+2077;3224;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+2080;1721;Consumidor negativado indevidamente nos serviços de proteção ao credito
+2088;6092;Antecipação de Financiamento
+2092;5029;Serviço não concluído /Fornecimento parcial
+2094;6000;Descredenciamento
+2108;1875;Discordância quanto as avarias
+2124;1890;Valor da multa
+2141;3724;Desistência do serviço (artigo 49 - descumprimento)
+2144;3854;Contrato - Clausula abusiva/em desacordo com a Legislação.
+2145;3700;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+2146;5065;Dano material/pessoal decorrente do serviço
+2150;2160;Não execução de obras de infra-estrutura e benfeitorias
+2153;3035;Falta de peca de reposição
+2154;2652;Não entrega/demora na entrega do produto
+2157;2621;Não entrega/demora na entrega do produto
+2161;4863;Não cumprimento à oferta
+2162;1127;Cobrança indevida.
+2165;4417;Preço do produto/serviço
+2167;1621;Venda enganosa
+2182;5001;Serviço não concluído /Fornecimento parcial
+2190;250;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+2194;2544;Produto com vício
+2200;2518;Produto com vício
+2206;5398;Cobrança indevida/abusiva
+2220;7116;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+2226;1222;Calculo de prestação em atraso
+2228;7095;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+2229;1101;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+2233;1878;Discordância quanto as avarias
+2236;2039;Cobrança de taxa indevida (elaboração de contrato, aferição de idoneidade, etc.)
+2243;7234;Defeito/Risco à saúde e segurança
+2244;6860;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+2254;4861;Não cumprimento à oferta
+2309;2195;Rescisão do contrato pela não entrega do imóvel
+2319;1630;Venda enganosa
+2323;3165;Desistência de compra (cancelamento de compra)
+2324;1702;Consumidor negativado indevidamente nos serviços de proteção ao credito
+2325;1445;Valor de reajuste (mensalidade)
+2329;3814;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+2330;5082;Dano material/pessoal decorrente do serviço
+2341;5768;Contrato - Clausula abusiva/em desacordo com a Legislação.
+2342;7260;Defeito/Risco à saúde e segurança
+2343;2590;Produto entregue diferente do pedido
+2355;7224;Defeito/Risco à saúde e segurança
+2357;6866;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+2360;3747;Cobrança indevida/abusiva
+2372;5087;Serviço em desacordo com norma/lei
+2375;2624;Não entrega/demora na entrega do produto
+2376;3171;Desistência de compra (cancelamento de compra)
+2383;5464;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+2387;2966;Demora na montagem/montagem incompleta/incorreta
+2391;3135;Desistência de compra (cancelamento de compra)
+2397;2347;Garantia (Abrangência, cobertura, etc.)
+2410;1977;Falha bancaria em transações eletrônicas (transferencias indevidas, saques indevidos)
+2413;5485;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+2414;709;Oferta enganosa
+2417;5145;Recusa injustificada em prestar serviço
+2426;5397;Cobrança indevida/abusiva
+2427;6182;Vício do Produto/Serviço
+2431;6713;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+2439;7268;Defeito/Risco à saúde e segurança
+2440;5340;Garantia - Descumprimento, prazo
+2444;1756;Cobrança vexatória/difamatória
+2445;3183;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+2456;1729;Não comunicação de negativacao
+2457;6476;CET – Não fornecimento de planilha de cálculo / Recusa de cálculo.
+2458;4914;Não pagamento de indenização
+2462;6846;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+2463;5294;Desistência do serviço (artigo 49 - descumprimento)
+2470;6839;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+2481;2605;Produto entregue diferente do pedido
+2486;2723;Peso/volume/quantidade/tamanho
+2489;3213;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+2493;1882;Discordância quanto as avarias
+2494;1629;Venda enganosa
+2497;311;Alteração de odor, sabor e aspecto.
+2498;147;Prazo de validade (falta, ilegível, etc.)
+2501;199;Preço (abusivo, remarcado, falta, etc.)
+2502;7150;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+2507;2565;Produto entregue diferente do pedido
+2510;251;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+2515;5364;Garantia - Descumprimento, prazo
+2517;5523;Venda/Oferta/publicidade enganosa.
+2518;2905;Venda enganosa
+2525;2615;Não entrega/demora na entrega do produto
+2529;2876;Venda enganosa
+2530;6158;Não Entrega de Produto
+2533;1286;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+2540;1177;Calculo de prestação/taxa de juros
+2541;7019;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+2546;1755;Cobrança vexatória/difamatória
+2560;6733;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+2567;5489;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+2571;3649;Dano material/pessoal decorrente do serviço
+2574;3616;Vicio de qualidade (mal executado, inadequado, impróprio)
+2576;5791;Contrato - Clausula abusiva/em desacordo com a Legislação.
+2579;5161;Recusa injustificada em prestar serviço
+2583;4284;Danos pessoais ao consumidor
+2590;7147;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+2606;1624;Venda enganosa
+2631;6718;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+2638;1100;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+2642;1188;Calculo de prestação/taxa de juros
+2646;3767;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+2650;5030;Serviço não concluído /Fornecimento parcial
+2651;3428;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+2652;2658;Não entrega/demora na entrega do produto
+2661;5746;Contrato - Rescisão/alteração unilateral
+2670;6810;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+2680;3940;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+2681;5342;Garantia - Descumprimento, prazo
+2698;3885;Cobrança de embalagem (sacolas)
+2701;2514;Produto com vício
+2703;5824;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+2713;4989;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+2717;5138;Recusa injustificada em prestar serviço
+2718;2162;Não execução de obras de infra-estrutura e benfeitorias
+2747;1466;Valor do bem
+2752;3119;Desistência de compra (cancelamento de compra)
+2753;6831;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+2763;5863;Não pagamento de indenização
+2767;5354;Garantia - Descumprimento, prazo
+2774;6843;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+2775;2340;Garantia (Abrangência, cobertura, etc.)
+2787;3921;Rescisão/Substituição/Alteração de contrato de saúde
+2791;6320;Baixa Renda
+2795;3723;Desistência do serviço (artigo 49 - descumprimento)
+2810;2333;Garantia (Abrangência, cobertura, etc.)
+2816;5471;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+2840;3127;Desistência de compra (cancelamento de compra)
+2842;3132;Desistência de compra (cancelamento de compra)
+2843;2576;Produto entregue diferente do pedido
+2852;6057;Lançamento Não Reconhecido na Fatura
+2853;6187;Vício do Produto/Serviço
+2866;4947;Vicio de qualidade (mal executado, inadequado, impróprio)
+2872;3790;Publicidade abusiva.
+2873;3192;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+2878;4922;Vicio de qualidade (mal executado, inadequado, impróprio)
+2883;2292;Não cumprimento do contrato/proposta
+2885;5544;Publicidade abusiva.
+2894;1185;Calculo de prestação/taxa de juros
+2895;5049;Dano material/pessoal decorrente do serviço
+2896;2343;Garantia (Abrangência, cobertura, etc.)
+2899;2338;Garantia (Abrangência, cobertura, etc.)
+2903;3156;Desistência de compra (cancelamento de compra)
+2911;1717;Consumidor negativado indevidamente nos serviços de proteção ao credito
+2936;3462;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+2937;5142;Recusa injustificada em prestar serviço
+2960;3098;Produto entregue incompleto
+2966;5383;Cobrança indevida/abusiva
+2996;1651;Não entrega de copia do contrato
+3012;2283;Duvidas sobre cobranças (taxas, etc.)
+3015;2041;Cobrança de taxa indevida (elaboração de contrato, aferição de idoneidade, etc.)
+3016;2188;Rescisão do contrato por inadimplência do consumidor
+3021;2216;Devolução de sinal, valores pagos (negocio não concretizado)
+3027;3000;Falta de peca de reposição
+3033;5320;Desistência do serviço (artigo 49 - descumprimento)
+3035;6091;Antecipação de Financiamento
+3039;2306;Garantia (Abrangência, cobertura, etc.)
+3044;2499;Produto com vício
+3045;2632;Não entrega/demora na entrega do produto
+3048;5838;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+3068;2183;Saldo devedor
+3078;3242;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+3081;3441;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+3083;3694;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+3086;3116;Produto entregue incompleto
+3099;2894;Venda enganosa
+3119;2586;Produto entregue diferente do pedido
+3121;6509;Tarifas Bancárias – Cobrança não autorizada.
+3127;1754;Cobrança vexatória/difamatória
+3133;6887;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+3134;4126;Venda enganosa
+3139;7110;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+3145;4965;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+3146;6665;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+3149;5756;Contrato - Rescisão/alteração unilateral
+3153;6524;Tarifas Bancárias – Cobrança não autorizada.
+3164;2867;Venda enganosa
+3165;5348;Garantia - Descumprimento, prazo
+3168;2930;Demora na montagem/montagem incompleta/incorreta
+3170;7112;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+3172;3749;Cobrança abusiva mediante constrangimento, ameaça.
+3174;5394;Cobrança indevida/abusiva
+3176;6871;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+3181;1955;Falha bancaria (cheques, ordem de pagamento, etc.)
+3182;2293;Não cumprimento do contrato/proposta
+3185;5770;Contrato - Clausula abusiva/em desacordo com a Legislação.
+3206;5403;Cobrança indevida/abusiva
+3211;5378;Cobrança indevida/abusiva
+3227;4447;Preço do produto/serviço
+3231;2541;Produto com vício
+3235;1119;Cobrança indevida.
+3240;2868;Venda enganosa
+3244;5610;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+3247;2975;Demora na montagem/montagem incompleta/incorreta
+3258;6171;Vício do Produto/Serviço
+3291;5472;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+3300;3087;Produto entregue incompleto
+3307;1915;Roubo de cartão
+3316;7135;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+3317;6521;Tarifas Bancárias – Cobrança não autorizada.
+3319;4262;Suspeita quanto a qualidade/eficácia do produto/serviço
+3326;5078;Dano material/pessoal decorrente do serviço
+3345;5313;Desistência do serviço (artigo 49 - descumprimento)
+3351;5337;Garantia - Descumprimento, prazo
+3360;1728;Não comunicação de negativacao
+3367;3756;Cobrança abusiva mediante constrangimento, ameaça.
+3380;5514;Venda/Oferta/publicidade enganosa.
+3396;1546;Publicidade enganosa
+3400;3617;Vicio de qualidade (mal executado, inadequado, impróprio)
+3407;6065;Lançamento Não Reconhecido na Fatura
+3414;3080;Produto entregue incompleto
+3415;3130;Desistência de compra (cancelamento de compra)
+3416;3122;Desistência de compra (cancelamento de compra)
+3420;4964;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+3432;5165;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+3436;6668;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+3442;5059;Dano material/pessoal decorrente do serviço
+3447;4073;Descumprimento de garantia pelo convênio medico (guia)
+3472;3892;Rescisão/Substituição/Alteração de contrato de saúde
+3480;2309;Garantia (Abrangência, cobertura, etc.)
+3497;3632;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+3498;1490;Não entrega do produto (titulo de capitalização, compra programada)
+3501;1494;Não entrega do produto (titulo de capitalização, compra programada)
+3503;3654;Dano material/pessoal decorrente do serviço
+3508;5499;Venda/Oferta/publicidade enganosa.
+3517;3368;Produto causou danos materiais
+3519;3108;Produto entregue incompleto
+3544;5201;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+3566;5758;Contrato - Rescisão/alteração unilateral
+3567;4177;Publicidade enganosa
+3569;2563;Produto entregue diferente do pedido
+3584;4736;Produto adulterado quanto a cor/odor/sabor/tamanho/aspecto
+3589;6949;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+3598;3141;Desistência de compra (cancelamento de compra)
+3601;3563;Não pagamento de indenização
+3607;3679;Recusa injustificada em prestar serviço
+3619;3627;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+3624;6770;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+3625;2362;Garantia (Abrangência, cobertura, etc.)
+3635;4289;Danos pessoais ao consumidor
+3636;3655;Dano material/pessoal decorrente do serviço
+3653;824;Irregularidade na rotulagem (falta de dados, dados ilegíveis, outros)
+3660;5018;Serviço não concluído /Fornecimento parcial
+3664;5071;Dano material/pessoal decorrente do serviço
+3665;2381;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+3689;4945;Vicio de qualidade (mal executado, inadequado, impróprio)
+3693;6131;Transação Eletrônica Não Reconhecida
+3719;3429;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+3722;6110;Transação Eletrônica Não Reconhecida
+3727;6948;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+3730;2509;Produto com vício
+3738;6245;Falta de Higiene em Estabelecimento
+3750;3145;Desistência de compra (cancelamento de compra)
+3756;6501;Tarifas Bancárias – Cobrança não autorizada.
+3766;6762;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+3771;1855;Discordância na indenização (seguros em geral)
+3780;7123;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+3785;3702;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+3786;1107;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+3787;1858;Discordância na indenização (seguros em geral)
+3792;2650;Não entrega/demora na entrega do produto
+3808;3150;Desistência de compra (cancelamento de compra)
+3817;5192;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+3819;1810;Não pagamento de indenização (seguros em geral)
+3821;4962;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+3831;1196;Calculo de antecipação de prestação
+3839;6911;Fila em Banco
+3844;7114;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+3845;303;Alteração de odor, sabor e aspecto.
+3847;4982;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+3850;3918;Rescisão/Substituição/Alteração de contrato de saúde
+3861;4792;Produto danificado/enferrujado/inadequado/mal armazenado
+3865;2558;Produto entregue diferente do pedido
+3914;6715;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+3922;3764;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+3929;6170;Não Entrega de Produto
+3934;3985;Problemas relativos a emissão/remessa de carnes/orçamentos
+3939;3865;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+3968;1839;Discordância na indenização (seguros em geral)
+3974;6119;Transação Eletrônica Não Reconhecida
+3984;2625;Não entrega/demora na entrega do produto
+4006;2589;Produto entregue diferente do pedido
+4017;1657;Não entrega de copia do contrato
+4018;5020;Serviço não concluído /Fornecimento parcial
+4023;4413;Preço do produto/serviço
+4049;6854;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+4050;5450;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+4051;5293;Desistência do serviço (artigo 49 - descumprimento)
+4063;1823;Não pagamento de indenização (seguros em geral)
+4089;1824;Não pagamento de indenização (seguros em geral)
+4091;5736;Contrato - Rescisão/alteração unilateral
+4093;3153;Desistência de compra (cancelamento de compra)
+4096;7737;SAC – Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+4097;6946;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+4100;6689;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+4106;3489;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+4109;6975;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+4112;5382;Cobrança indevida/abusiva
+4113;2794;Publicidade enganosa
+4114;2298;Não pagamento de indenização
+4115;1172;Calculo de prestação/taxa de juros
+4128;5163;Recusa injustificada em prestar serviço
+4143;796;Irregularidade na rotulagem (falta de dados, dados ilegíveis, outros)
+4155;2557;Produto entregue diferente do pedido
+4173;2743;Publicidade enganosa
+4174;4135;Venda enganosa
+4175;3932;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+4176;4557;Medição irregular de pressão e peso/inalação (na rua, farmácia ou em outros estabelecimentos)
+4177;5971;Reajuste sem previsão contratual
+4195;3189;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+4196;3838;Contrato - Rescisão/alteração unilateral
+4203;3432;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+4210;3089;Produto entregue incompleto
+4215;3451;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+4218;5375;Cobrança indevida/abusiva
+4260;3869;Não pagamento de indenização
+4289;3337;Produto causou danos materiais
+4303;5728;Contrato - Rescisão/alteração unilateral
+4304;1883;Discordância quanto as avarias
+4310;2513;Produto com vício
+4316;3676;Recusa injustificada em prestar serviço
+4317;3730;Garantia - Descumprimento, prazo
+4327;1094;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+4330;1308;Desistência de consorcio
+4344;3639;Serviço não concluído /Fornecimento parcial
+4347;4973;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+4352;6697;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+4370;1942;Falha bancaria (cheques, ordem de pagamento, etc.)
+4375;3568;Não pagamento de indenização
+4410;5012;Serviço não concluído /Fornecimento parcial
+4415;5193;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+4426;5757;Contrato - Rescisão/alteração unilateral
+4434;6849;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+4438;704;Oferta enganosa
+4451;1063;Envio de produto ou serviço sem previa solicitação
+4510;3453;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+4515;6687;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+4518;3731;Garantia - Descumprimento, prazo
+4538;6682;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+4546;2315;Garantia (Abrangência, cobertura, etc.)
+4550;4161;Publicidade enganosa
+4555;1640;Venda enganosa
+4556;2197;Rescisão do contrato pela não entrega do imóvel
+4557;2942;Demora na montagem/montagem incompleta/incorreta
+4564;1764;Cobrança vexatória/difamatória
+4566;4430;Preço do produto/serviço
+4571;2896;Venda enganosa
+4575;2829;Publicidade abusiva
+4584;2566;Produto entregue diferente do pedido
+4595;2166;Qualidade da construção (vícios, vazamentos, impermeabilização)
+4597;4328;Danos materiais ao consumidor
+4598;1406;Não entrega de quitação/retenção de documentos
+4602;166;Prazo de validade (falta, ilegível, etc.)
+4609;2181;Saldo devedor
+4613;4853;Não cumprimento à oferta
+4614;2248;Reajuste (aluguel/prestação)
+4638;5767;Contrato - Rescisão/alteração unilateral
+4639;2270;Cobrança de multa acima do permitido pela legislação (atraso no pag. de prestação/aluguel/condomínio)
+4651;5856;Não pagamento de indenização
+4655;2819;Publicidade abusiva
+4668;6969;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+4679;3154;Desistência de compra (cancelamento de compra)
+4690;5315;Desistência do serviço (artigo 49 - descumprimento)
+4705;645;Publicidade enganosa
+4716;198;Preço (abusivo, remarcado, falta, etc.)
+4720;2790;Publicidade enganosa
+4731;2225;Não entrega da escritura
+4746;7231;Defeito/Risco à saúde e segurança
+4777;7153;Tarifa de Cartão de Crédito – Cobrança Indevida (anuidade, 2ª via, etc.)
+4778;1545;Publicidade enganosa
+4783;1782;Calculo do prêmio (seguros)
+4785;3205;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+4794;4999;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+4805;5396;Cobrança indevida/abusiva
+4819;5377;Cobrança indevida/abusiva
+4836;2776;Publicidade enganosa
+4843;2342;Garantia (Abrangência, cobertura, etc.)
+4844;3193;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+4851;3170;Desistência de compra (cancelamento de compra)
+4854;7127;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+4863;3619;Vicio de qualidade (mal executado, inadequado, impróprio)
+4874;3667;Serviço em desacordo com norma/lei
+4879;1820;Não pagamento de indenização (seguros em geral)
+4881;1951;Falha bancaria (cheques, ordem de pagamento, etc.)
+4888;5999;Descredenciamento
+4896;2361;Garantia (Abrangência, cobertura, etc.)
+4904;3472;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+4914;4297;Danos pessoais ao consumidor
+4917;5151;Recusa injustificada em prestar serviço
+4922;2866;Venda enganosa
+4933;5493;Venda/Oferta/publicidade enganosa.
+4936;6658;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+4943;2627;Não entrega/demora na entrega do produto
+4948;5143;Recusa injustificada em prestar serviço
+4952;4980;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+4972;2567;Produto entregue diferente do pedido
+4975;3348;Produto causou danos materiais
+4987;330;Alteração de odor, sabor e aspecto.
+4992;3822;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+4993;5750;Contrato - Rescisão/alteração unilateral
+4994;5766;Contrato - Rescisão/alteração unilateral
+5007;3229;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+5008;5389;Cobrança indevida/abusiva
+5014;2303;Garantia (Abrangência, cobertura, etc.)
+5031;6640;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+5032;4578;Erro na elaboração de formula/produto em desacordo com a formula receita
+5033;3181;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+5036;7222;Defeito/Risco à saúde e segurança
+5051;7030;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+5056;6408;Clonagem
+5062;5236;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+5065;609;Publicidade enganosa
+5073;6084;Antecipação de Financiamento
+5098;7318;Defeito/Risco à saúde e segurança
+5103;2886;Venda enganosa
+5109;6942;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+5111;1638;Venda enganosa
+5112;5480;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+5122;6963;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+5125;6985;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+5140;3188;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+5160;5022;Serviço não concluído /Fornecimento parcial
+5162;4848;Não cumprimento à oferta
+5203;3446;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+5205;2907;Venda enganosa
+5210;7227;Defeito/Risco à saúde e segurança
+5217;6154;Não Entrega de Produto
+5247;1539;Não pagamento de resgate (capitalização/ouro/compra)
+5256;3698;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+5274;4081;Procedimento de cobrança violenta/difamatória
+5299;3733;Garantia - Descumprimento, prazo
+5307;5798;Contrato - Clausula abusiva/em desacordo com a Legislação.
+5352;1790;Calculo do prêmio (seguros)
+5355;6744;Portabilidade numérica
+5362;5868;Não pagamento de indenização
+5363;3878;Não pagamento de indenização
+5377;5531;Publicidade abusiva.
+5378;5529;Venda/Oferta/publicidade enganosa.
+5387;6677;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+5388;6083;Antecipação de Financiamento
+5389;1435;Valor de reajuste (mensalidade)
+5406;5016;Serviço não concluído /Fornecimento parcial
+5410;4076;Procedimento de cobrança violenta/difamatória
+5423;4943;Vicio de qualidade (mal executado, inadequado, impróprio)
+5435;3905;Rescisão/Substituição/Alteração de contrato de saúde
+5442;3743;Cobrança indevida/abusiva
+5451;1862;Discordância quanto as avarias
+5453;2334;Garantia (Abrangência, cobertura, etc.)
+5474;1910;Valor da multa
+5482;3631;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+5495;1334;Fundo de reserva
+5510;4760;Produto adulterado quanto a cor/odor/sabor/tamanho/aspecto
+5511;5013;Serviço não concluído /Fornecimento parcial
+5513;1144;Retirada de credito sem comunicação previa.
+5525;5972;Descredenciamento
+5529;1750;Não comunicação de negativacao
+5545;7214;Defeito/Risco à saúde e segurança
+5547;6837;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+5553;5324;Desistência do serviço (artigo 49 - descumprimento)
+5554;6881;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+5556;6525;Tarifas Bancárias – Divulgação inadequada / não divulgação na agência ou no sítio da Internet.
+5566;2788;Publicidade enganosa
+5571;2870;Venda enganosa
+5574;2040;Cobrança de taxa indevida (elaboração de contrato, aferição de idoneidade, etc.)
+5591;1143;Retirada de credito sem comunicação previa.
+5594;2923;Venda enganosa
+5600;4970;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+5606;2871;Venda enganosa
+5611;6475;CET – Não fornecimento de planilha de cálculo / Recusa de cálculo.
+5616;7323;Defeito/Risco à saúde e segurança
+5627;5744;Contrato - Rescisão/alteração unilateral
+5634;5204;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+5641;2035;Não pagamento de indenização
+5664;2648;Não entrega/demora na entrega do produto
+5676;2014;Não pagamento de indenização
+5687;3866;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+5690;5479;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+5697;2741;Publicidade enganosa
+5708;2545;Produto com vício
+5713;3801;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+5717;2993;Falta de peca de reposição
+5720;3840;Contrato - Rescisão/alteração unilateral
+5723;5530;Venda/Oferta/publicidade enganosa.
+5724;6240;Negativa de Cobertura
+5730;5027;Serviço não concluído /Fornecimento parcial
+5736;6653;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+5759;4500;Falta de assistência técnica/garantia
+5761;6102;Antecipação de Financiamento
+5765;3855;Contrato - Clausula abusiva/em desacordo com a Legislação.
+5785;2982;Demora na montagem/montagem incompleta/incorreta
+5792;2603;Produto entregue diferente do pedido
+5827;3038;Falta de peca de reposição
+5831;5282;Venda casada
+5862;2256;Publicidade enganosa
+5877;4431;Preço do produto/serviço
+5902;3123;Desistência de compra (cancelamento de compra)
+5906;4867;Não cumprimento à oferta
+5917;1152;Retirada de credito sem comunicação previa.
+5919;1385;Não entrega de quitação/retenção de documentos
+5936;1076;Envio de produto ou serviço sem previa solicitação
+5959;2311;Garantia (Abrangência, cobertura, etc.)
+5964;3383;Compra de veiculo (multa, transferência, alienação, não entrega de documentação)
+5966;2379;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+5977;3726;Garantia - Descumprimento, prazo
+5980;7315;Defeito/Risco à saúde e segurança
+5993;3799;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+5998;3691;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+6018;3642;Serviço não concluído /Fornecimento parcial
+6024;3341;Produto causou danos materiais
+6028;7167;Tarifa de Cartão de Crédito – Cobrança Indevida (anuidade, 2ª via, etc.)
+6061;392;Presença de sujidades, larvas e objetos estranhos.
+6062;5387;Cobrança indevida/abusiva
+6067;4992;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+6068;2954;Demora na montagem/montagem incompleta/incorreta
+6074;2872;Venda enganosa
+6095;6838;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+6097;2802;Publicidade enganosa
+6119;1848;Discordância na indenização (seguros em geral)
+6124;5705;Roubo/furto
+6125;3093;Produto entregue incompleto
+6129;1670;Não entrega de copia do contrato
+6130;6686;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+6142;6782;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+6159;4986;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+6183;6777;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+6208;3318;Produto causou danos materiais
+6213;6152;Não Entrega de Produto
+6233;4971;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+6246;5504;Venda/Oferta/publicidade enganosa.
+6257;3211;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+6259;6654;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+6271;6714;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+6290;2784;Publicidade enganosa
+6322;2782;Publicidade enganosa
+6342;7236;Defeito/Risco à saúde e segurança
+6354;3196;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+6364;2582;Produto entregue diferente do pedido
+6366;7075;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+6391;5066;Dano material/pessoal decorrente do serviço
+6414;6936;Crédito Consignado
+6420;2575;Produto entregue diferente do pedido
+6421;5295;Desistência do serviço (artigo 49 - descumprimento)
+6430;5495;Venda/Oferta/publicidade enganosa.
+6434;6869;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+6474;1194;Calculo de prestação/taxa de juros
+6497;3896;Rescisão/Substituição/Alteração de contrato de saúde
+6501;3064;Produto entregue incompleto
+6502;1306;Desistência de consorcio
+6511;5521;Venda/Oferta/publicidade enganosa.
+6557;3129;Desistência de compra (cancelamento de compra)
+6559;6719;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+6563;5607;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+6606;6808;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+6637;1066;Envio de produto ou serviço sem previa solicitação
+6670;7242;Defeito/Risco à saúde e segurança
+6694;2911;Venda enganosa
+6697;5150;Recusa injustificada em prestar serviço
+6723;2569;Produto entregue diferente do pedido
+6750;1812;Não pagamento de indenização (seguros em geral)
+6763;3179;Desistência de compra (cancelamento de compra)
+6784;3215;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+6785;5133;Recusa injustificada em prestar serviço
+6791;5739;Contrato - Rescisão/alteração unilateral
+6801;6945;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+6838;3501;Procedimento de cobrança violenta/difamatória
+6846;2996;Falta de peca de reposição
+6873;2167;Qualidade da construção (vícios, vazamentos, impermeabilização)
+6881;4109;Venda enganosa
+6894;2917;Venda enganosa
+6907;2596;Produto entregue diferente do pedido
+6914;7082;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+6930;1226;Calculo de prestação em atraso
+6935;2778;Publicidade enganosa
+6938;2793;Publicidade enganosa
+6959;3716;Desistência do serviço (artigo 49 - descumprimento)
+6980;4866;Não cumprimento à oferta
+6991;3734;Garantia - Descumprimento, prazo
+6995;6144;Não Entrega de Produto
+7011;4152;Publicidade enganosa
+7013;3198;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+7022;1849;Discordância na indenização (seguros em geral)
+7026;2775;Publicidade enganosa
+7034;2715;Peso/volume/quantidade/tamanho
+7042;6078;Lançamento Não Reconhecido na Fatura
+7051;5813;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+7066;3620;Vicio de qualidade (mal executado, inadequado, impróprio)
+7096;644;Publicidade enganosa
+7102;6922;Crédito Consignado
+7120;3504;Procedimento de cobrança violenta/difamatória
+7128;1647;Não entrega de copia do contrato
+7133;5447;Cobrança abusiva mediante constrangimento, ameaça.
+7164;3214;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+7179;5527;Venda/Oferta/publicidade enganosa.
+7218;4997;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+7219;3118;Desistência de compra (cancelamento de compra)
+7224;149;Prazo de validade (falta, ilegível, etc.)
+7228;3235;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+7243;1550;Publicidade enganosa
+7260;3004;Falta de peca de reposição
+7292;2903;Venda enganosa
+7302;1205;Calculo de antecipação de prestação
+7307;5517;Venda/Oferta/publicidade enganosa.
+7309;2898;Venda enganosa
+7349;2897;Venda enganosa
+7351;5307;Desistência do serviço (artigo 49 - descumprimento)
+7353;1489;Não entrega do produto (titulo de capitalização, compra programada)
+7355;2297;Não pagamento de indenização
+7393;3907;Rescisão/Substituição/Alteração de contrato de saúde
+7410;4857;Não cumprimento à oferta
+7412;4432;Preço do produto/serviço
+7415;1623;Venda enganosa
+7422;3342;Produto causou danos materiais
+7430;3675;Recusa injustificada em prestar serviço
+7478;6576;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+7498;3005;Falta de peca de reposição
+7545;2669;Não entrega/demora na entrega do produto
+7563;3484;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+7568;3897;Rescisão/Substituição/Alteração de contrato de saúde
+7595;4977;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+7597;3220;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+7609;5541;Publicidade abusiva.
+7621;7034;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+7672;1719;Consumidor negativado indevidamente nos serviços de proteção ao credito
+7675;6683;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+7682;4800;Produto danificado/enferrujado/inadequado/mal armazenado
+7686;1280;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+7690;3110;Produto entregue incompleto
+7695;1872;Discordância quanto as avarias
+7731;4928;Vicio de qualidade (mal executado, inadequado, impróprio)
+7742;2881;Venda enganosa
+7753;4710;Irregularidade na rotulagem (falta de dados/dados ilegíveis ou incompletos)
+7788;1045;Limitação de horário de pagamento
+7816;5809;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+7827;3600;Não pagamento de indenização
+7841;3991;Problemas relativos a emissão/remessa de carnes/orçamentos
+7849;6123;Transação Eletrônica Não Reconhecida
+7865;4049;Descumprimento de garantia pelo convênio medico (guia)
+7895;3226;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+7899;2295;Não cumprimento do contrato/proposta
+7910;1180;Calculo de prestação/taxa de juros
+7923;6882;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+7944;5343;Garantia - Descumprimento, prazo
+7948;1614;Venda casada
+7960;3474;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+7977;2145;Taxa de manutenção/conservação
+7984;3470;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+7998;6558;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+8001;4143;Publicidade enganosa
+8018;5238;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+8025;3979;Problemas relativos a emissão/remessa de carnes/orçamentos
+8030;6784;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+8037;2851;Publicidade abusiva
+8063;7267;Defeito/Risco à saúde e segurança
+8073;12;Cobrança de taxa indevida (couvert, 10%, etc.)
+8093;1379;Reajuste de saldo de caixa/diferença de prestação
+8107;3863;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+8133;3463;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+8156;1103;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+8180;1135;Cobrança indevida.
+8187;4248;Recusa/mau atendimento
+8190;5131;Recusa injustificada em prestar serviço
+8193;3460;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+8205;3101;Produto entregue incompleto
+8209;6636;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+8211;6847;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+8220;3590;Não pagamento de indenização
+8246;2249;Reajuste (aluguel/prestação)
+8249;7239;Defeito/Risco à saúde e segurança
+8274;5062;Dano material/pessoal decorrente do serviço
+8283;1568;Publicidade enganosa
+8297;3741;Cobrança indevida/abusiva
+8311;5740;Contrato - Rescisão/alteração unilateral
+8331;2419;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+8332;2660;Não entrega/demora na entrega do produto
+8344;7261;Defeito/Risco à saúde e segurança
+8392;1822;Não pagamento de indenização (seguros em geral)
+8441;4969;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+8479;5586;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+8492;2560;Produto entregue diferente do pedido
+8496;2642;Não entrega/demora na entrega do produto
+8517;7308;Defeito/Risco à saúde e segurança
+8539;5179;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+8564;1163;Retirada de credito sem comunicação previa.
+8601;2990;Demora na montagem/montagem incompleta/incorreta
+8640;1753;Não comunicação de negativacao
+8642;4319;Danos pessoais ao consumidor
+8649;2636;Não entrega/demora na entrega do produto
+8660;1520;Não pagamento de resgate (capitalização/ouro/compra)
+8666;6721;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+8697;1788;Calculo do prêmio (seguros)
+8726;6125;Transação Eletrônica Não Reconhecida
+8728;3430;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+8766;6952;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+8781;3597;Não pagamento de indenização
+8783;2983;Demora na montagem/montagem incompleta/incorreta
+8786;5334;Garantia - Descumprimento, prazo
+8793;7173;Defeito/Risco à saúde e segurança
+8803;1304;Desistência de consorcio
+8819;2731;Peso/volume/quantidade/tamanho
+8828;6638;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+8835;6805;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+8852;5572;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+8881;6702;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+8894;1129;Cobrança indevida.
+8908;6609;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+8914;3178;Desistência de compra (cancelamento de compra)
+8947;5845;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+8966;4856;Não cumprimento à oferta
+8972;2042;Cobrança de taxa indevida (elaboração de contrato, aferição de idoneidade, etc.)
+8974;4428;Preço do produto/serviço
+8991;3443;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+8994;2027;Não pagamento de indenização
+8995;6818;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+9009;6030;PID - Pedido de Indenização por Danos Morais
+9010;4946;Vicio de qualidade (mal executado, inadequado, impróprio)
+9025;1636;Venda enganosa
+9030;5519;Venda/Oferta/publicidade enganosa.
+9031;4042;Reajuste por alteração de faixa etária (percentual elevado/sem previsão em contrato de percentual ou faixa etária)
+9036;2900;Venda enganosa
+9098;4137;Venda enganosa
+9102;3904;Rescisão/Substituição/Alteração de contrato de saúde
+9103;4140;Venda enganosa
+9117;3184;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+9152;5753;Contrato - Rescisão/alteração unilateral
+9187;4942;Vicio de qualidade (mal executado, inadequado, impróprio)
+9191;6184;Vício do Produto/Serviço
+9205;5761;Contrato - Rescisão/alteração unilateral
+9233;2919;Venda enganosa
+9244;5107;Serviço em desacordo com norma/lei
+9253;5879;Não pagamento de indenização
+9274;5385;Cobrança indevida/abusiva
+9276;5083;Serviço em desacordo com norma/lei
+9348;2026;Não pagamento de indenização
+9468;5198;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+9474;3232;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+9516;5483;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+9522;3770;Venda/Oferta/publicidade enganosa.
+9540;2901;Venda enganosa
+9569;1572;Publicidade abusiva
+9570;5069;Dano material/pessoal decorrente do serviço
+9587;1309;Desistência de consorcio
+9594;3753;Cobrança abusiva mediante constrangimento, ameaça.
+9600;3346;Produto causou danos materiais
+9622;3535;Procedimento de cobrança violenta/difamatória
+9624;5042;Dano material/pessoal decorrente do serviço
+9630;2217;Devolução de sinal, valores pagos (negocio não concretizado)
+9638;3138;Desistência de compra (cancelamento de compra)
+9670;107;Peso, volume e quantidade
+9671;105;Peso, volume e quantidade
+9674;34;Cobrança de taxa indevida (couvert, 10%, etc.)
+9675;148;Prazo de validade (falta, ilegível, etc.)
+9677;194;Prazo de validade (falta, ilegível, etc.)
+9680;30;Cobrança de taxa indevida (couvert, 10%, etc.)
+9681;203;Preço (abusivo, remarcado, falta, etc.)
+9682;124;Peso, volume e quantidade
+9684;217;Preço (abusivo, remarcado, falta, etc.)
+9685;27;Cobrança de taxa indevida (couvert, 10%, etc.)
+9687;109;Peso, volume e quantidade
+9688;7126;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+9698;6976;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+9699;2880;Venda enganosa
+9700;5070;Dano material/pessoal decorrente do serviço
+9707;2902;Venda enganosa
+9709;4923;Vicio de qualidade (mal executado, inadequado, impróprio)
+9722;2556;Produto entregue diferente do pedido
+9730;2189;Rescisão do contrato por inadimplência do consumidor
+9741;4862;Não cumprimento à oferta
+9768;3712;Venda casada
+9805;438;Procedimento de cobrança violenta e difamatória.
+9837;3218;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+9855;4302;Danos pessoais ao consumidor
+9856;5025;Serviço não concluído /Fornecimento parcial
+9872;3371;Compra de veiculo (multa, transferência, alienação, não entrega de documentação)
+9892;4125;Venda enganosa
+9904;6772;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+9932;6318;TOI - Termo de Ocorrência de Irregularidade
+9938;5349;Garantia - Descumprimento, prazo
+9966;2713;Peso/volume/quantidade/tamanho
+9967;5490;Venda/Oferta/publicidade enganosa.
+9983;2740;Publicidade enganosa
+9984;4930;Vicio de qualidade (mal executado, inadequado, impróprio)
+10018;2531;Produto com vício
+10021;7279;Defeito/Risco à saúde e segurança
+10063;7122;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+10073;1772;Cobrança vexatória/difamatória
+10076;6502;Tarifas Bancárias – Cobrança não autorizada.
+10094;3488;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+10123;2889;Venda enganosa
+10132;6754;Desbloqueio de aparelho
+10135;260;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+10136;134;Peso, volume e quantidade
+10144;184;Prazo de validade (falta, ilegível, etc.)
+10151;6051;Clonagem
+10154;4845;Cobrança de multa acima do permitido pela legislação
+10159;188;Prazo de validade (falta, ilegível, etc.)
+10215;3092;Produto entregue incompleto
+10244;3090;Produto entregue incompleto
+10272;5500;Venda/Oferta/publicidade enganosa.
+10273;2321;Garantia (Abrangência, cobertura, etc.)
+10293;7125;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+10304;1316;Desistência de consorcio
+10311;5302;Desistência do serviço (artigo 49 - descumprimento)
+10328;5153;Recusa injustificada em prestar serviço
+10332;2783;Publicidade enganosa
+10398;6282;TOI - Termo de Ocorrência de Irregularidade
+10402;1842;Discordância na indenização (seguros em geral)
+10411;3877;Não pagamento de indenização
+10412;4981;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+10437;4888;Não pagamento de indenização
+10444;6841;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+10462;57;Cobrança de taxa indevida (couvert, 10%, etc.)
+10507;1610;Venda casada
+10512;5777;Contrato - Clausula abusiva/em desacordo com a Legislação.
+10524;2286;Duvidas sobre cobranças (taxas, etc.)
+10535;2092;Cobrança de despesas extraordinárias
+10536;6964;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+10537;6958;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+10576;3509;Procedimento de cobrança violenta/difamatória
+10586;3556;Não pagamento de indenização
+10587;3653;Dano material/pessoal decorrente do serviço
+10599;2792;Publicidade enganosa
+10620;5422;Cobrança abusiva mediante constrangimento, ameaça.
+10623;2931;Demora na montagem/montagem incompleta/incorreta
+10634;5361;Garantia - Descumprimento, prazo
+10663;1387;Não entrega de quitação/retenção de documentos
+10674;3941;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+10676;7097;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+10696;2934;Demora na montagem/montagem incompleta/incorreta
+10743;5409;Cobrança abusiva mediante constrangimento, ameaça.
+10803;195;Prazo de validade (falta, ilegível, etc.)
+10804;6875;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+10851;5680;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+10856;5421;Cobrança abusiva mediante constrangimento, ameaça.
+10889;5205;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+10891;193;Prazo de validade (falta, ilegível, etc.)
+10903;5488;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+10972;6190;Vício do Produto/Serviço
+11022;1102;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+11037;3669;Serviço em desacordo com norma/lei
+11078;1996;Cobrança de honorários advocaticios, despesa de cobrança
+11167;1555;Publicidade enganosa
+11187;5297;Desistência do serviço (artigo 49 - descumprimento)
+11217;3480;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+11222;618;Publicidade enganosa
+11313;1532;Não pagamento de resgate (capitalização/ouro/compra)
+11330;32;Cobrança de taxa indevida (couvert, 10%, etc.)
+11331;123;Peso, volume e quantidade
+11332;28;Cobrança de taxa indevida (couvert, 10%, etc.)
+11383;5164;Recusa injustificada em prestar serviço
+11386;2054;Calculo de caução
+11393;6817;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+11398;3320;Produto causou danos materiais
+11410;6812;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+11412;7137;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+11415;5258;Venda casada
+11423;2522;Produto com vício
+11429;2319;Garantia (Abrangência, cobertura, etc.)
+11459;116;Peso, volume e quantidade
+11513;102;Peso, volume e quantidade
+11520;115;Peso, volume e quantidade
+11524;1774;Cobrança vexatória/difamatória
+11540;5298;Desistência do serviço (artigo 49 - descumprimento)
+11543;2570;Produto entregue diferente do pedido
+11578;5773;Contrato - Clausula abusiva/em desacordo com a Legislação.
+11581;2093;Cobrança de despesas extraordinárias
+11586;2351;Garantia (Abrangência, cobertura, etc.)
+11594;2323;Garantia (Abrangência, cobertura, etc.)
+11600;144;Peso, volume e quantidade
+11603;2561;Produto entregue diferente do pedido
+11632;1595;Venda casada
+11633;1819;Não pagamento de indenização (seguros em geral)
+11644;7264;Defeito/Risco à saúde e segurança
+11672;5393;Cobrança indevida/abusiva
+11684;2997;Falta de peca de reposição
+11741;2511;Produto com vício
+11826;48;Cobrança de taxa indevida (couvert, 10%, etc.)
+11911;4231;Recusa/mau atendimento
+11921;287;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+11971;2161;Não execução de obras de infra-estrutura e benfeitorias
+11977;6206;Negativa de Cobertura
+11984;3190;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+12003;253;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+12021;1488;Valor do bem
+12035;3185;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+12049;1837;Discordância na indenização (seguros em geral)
+12057;1367;Reajuste de saldo de caixa/diferença de prestação
+12095;2786;Publicidade enganosa
+12128;3438;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+12201;4565;Medição irregular de pressão e peso/inalação (na rua, farmácia ou em outros estabelecimentos)
+12205;4920;Vicio de qualidade (mal executado, inadequado, impróprio)
+12250;4586;Erro na elaboração de formula/produto em desacordo com a formula receita
+12413;7287;Acidente de Consumo (produto/serviço causou danos pessoais ao consumidor)
+12415;5286;Desistência do serviço (artigo 49 - descumprimento)
+12522;2618;Não entrega/demora na entrega do produto
+12567;5463;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+12569;2764;Publicidade enganosa
+12590;5476;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+12603;4215;Recusa/mau atendimento
+12638;5436;Cobrança abusiva mediante constrangimento, ameaça.
+12639;2236;Recusa no recebimento do aluguel/prestação
+12650;6993;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+12664;5518;Venda/Oferta/publicidade enganosa.
+12668;5048;Dano material/pessoal decorrente do serviço
+12722;154;Descumprimento de garantia pelo convênio medico (guia)
+12764;2196;Rescisão do contrato pela não entrega do imóvel
+12768;3928;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+12790;5462;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+12792;3889;Cobrança de embalagem (sacolas)
+12803;3668;Serviço em desacordo com norma/lei
+12807;5308;Desistência do serviço (artigo 49 - descumprimento)
+12837;5833;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+13004;246;Preço (abusivo, remarcado, falta, etc.)
+13056;7081;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+13060;2964;Demora na montagem/montagem incompleta/incorreta
+13104;1521;Não pagamento de resgate (capitalização/ouro/compra)
+13108;2961;Demora na montagem/montagem incompleta/incorreta
+13125;2756;Publicidade enganosa
+13169;3085;Produto entregue incompleto
+13185;185;Prazo de validade (falta, ilegível, etc.)
+13196;53;Cobrança de taxa indevida (couvert, 10%, etc.)
+13209;4679;Prazo de validade (ilegível/vencido/ausência)
+13267;3167;Desistência de compra (cancelamento de compra)
+13329;2772;Publicidade enganosa
+13361;1330;Fundo de reserva
+13370;3049;Falta de peca de reposição
+13387;3021;Falta de peca de reposição
+13389;3422;Compra de veiculo (multa, transferência, alienação, não entrega de documentação)
+13395;3086;Produto entregue incompleto
+13438;2094;Cobrança de despesas extraordinárias
+13452;4935;Vicio de qualidade (mal executado, inadequado, impróprio)
+13455;3765;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+13483;5467;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+13502;6548;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+13512;4521;Falta de assistência técnica/garantia
+13521;2506;Produto com vício
+13528;202;Preço (abusivo, remarcado, falta, etc.)
+13529;1108;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+13571;5570;Publicidade abusiva.
+13576;190;Prazo de validade (falta, ilegível, etc.)
+13597;4983;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+13614;4008;Reajuste anual de contrato de saúde com percentual elevado
+13636;3771;Venda/Oferta/publicidade enganosa.
+13691;2584;Produto entregue diferente do pedido
+13693;5168;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+13711;3782;Publicidade abusiva.
+13801;2761;Publicidade enganosa
+13854;1888;Discordância quanto as avarias
+13871;3353;Produto causou danos materiais
+13887;2749;Publicidade enganosa
+14001;1104;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+14064;5589;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+14076;3528;Procedimento de cobrança violenta/difamatória
+14097;3629;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+14169;3084;Produto entregue incompleto
+14190;2072;Revisional de aluguel
+14193;2367;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+14249;2976;Demora na montagem/montagem incompleta/incorreta
+14250;1559;Publicidade enganosa
+14296;739;Oferta enganosa
+14303;1019;Recusa em receber pagamento de nota promissória, carne, etc.
+14314;5776;Contrato - Clausula abusiva/em desacordo com a Legislação.
+14420;3660;Serviço em desacordo com norma/lei
+14441;6931;Crédito Consignado
+14458;126;Peso, volume e quantidade
+14459;183;Prazo de validade (falta, ilegível, etc.)
+14553;5449;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+14607;5117;Serviço em desacordo com norma/lei
+14609;1227;Calculo de prestação em atraso
+14661;1399;Não entrega de quitação/retenção de documentos
+14673;3567;Não pagamento de indenização
+14686;1650;Não entrega de copia do contrato
+14688;5338;Garantia - Descumprimento, prazo
+14691;2223;Não entrega da escritura
+14703;4931;Vicio de qualidade (mal executado, inadequado, impróprio)
+14713;6163;Não Entrega de Produto
+14718;2571;Produto entregue diferente do pedido
+14726;614;Publicidade enganosa
+14735;5726;Roubo/furto
+14760;5491;Venda/Oferta/publicidade enganosa.
+14797;47;Cobrança de taxa indevida (couvert, 10%, etc.)
+14873;4269;Suspeita quanto a qualidade/eficácia do produto/serviço
+14882;4932;Vicio de qualidade (mal executado, inadequado, impróprio)
+14901;2926;Venda enganosa
+14924;4864;Não cumprimento à oferta
+14932;6087;Antecipação de Financiamento
+14936;7232;Defeito/Risco à saúde e segurança
+14941;6449;CET – Divulgação inadequada / não divulgação nas peças publicitárias.
+14996;2048;Não devolução de caução
+15007;5096;Serviço em desacordo com norma/lei
+15018;1010;Recusa em receber pagamento de nota promissória, carne, etc.
+15047;6198;Vício do Produto/Serviço
+15098;318;Alteração de odor, sabor e aspecto.
+15102;1987;Cobrança de honorários advocaticios, despesa de cobrança
+15143;4951;Vicio de qualidade (mal executado, inadequado, impróprio)
+15169;7083;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+15173;616;Publicidade enganosa
+15185;3740;Cobrança indevida/abusiva
+15204;1012;Recusa em receber pagamento de nota promissória, carne, etc.
+15267;2634;Não entrega/demora na entrega do produto
+15279;3487;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+15329;7055;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+15335;4415;Preço do produto/serviço
+15346;1632;Venda enganosa
+15388;3073;Produto entregue incompleto
+15395;2555;Produto entregue diferente do pedido
+15430;1594;Publicidade abusiva
+15444;5782;Contrato - Clausula abusiva/em desacordo com a Legislação.
+15456;6731;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+15458;5122;Serviço em desacordo com norma/lei
+15463;2908;Venda enganosa
+15484;5779;Contrato - Clausula abusiva/em desacordo com a Legislação.
+15530;5431;Cobrança abusiva mediante constrangimento, ameaça.
+15556;2758;Publicidade enganosa
+15593;4142;Venda enganosa
+15606;6299;TOI - Termo de Ocorrência de Irregularidade
+15612;6009;TOI - Termo de Ocorrência de Irregularidade
+15656;1579;Publicidade abusiva
+15660;1358;Reajuste de saldo de caixa/diferença de prestação
+15672;1838;Discordância na indenização (seguros em geral)
+15699;3350;Produto causou danos materiais
+15711;3436;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+15720;2943;Demora na montagem/montagem incompleta/incorreta
+15726;220;Preço (abusivo, remarcado, falta, etc.)
+15734;136;Peso, volume e quantidade
+15748;1281;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+15775;1961;Falha bancaria em transações eletrônicas (transferencias indevidas, saques indevidos)
+15776;5566;Publicidade abusiva.
+15780;2595;Produto entregue diferente do pedido
+15795;1313;Desistência de consorcio
+15821;5465;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+15845;3440;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+15859;3842;Contrato - Rescisão/alteração unilateral
+15899;3065;Produto entregue incompleto
+15951;3321;Produto causou danos materiais
+16095;2752;Publicidade enganosa
+16112;2013;Não pagamento de indenização
+16193;143;Peso, volume e quantidade
+16199;78;Não fornecimento de contra vale
+16207;2397;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+16216;2751;Publicidade enganosa
+16219;838;Embalagem (amassada, enferrujada, estufada)
+16220;1785;Calculo do prêmio (seguros)
+16226;2918;Venda enganosa
+16245;153;Prazo de validade (falta, ilegível, etc.)
+16263;151;Prazo de validade (falta, ilegível, etc.)
+16342;608;Publicidade enganosa
+16410;3895;Rescisão/Substituição/Alteração de contrato de saúde
+16456;597;Acidente de Consumo (causou danos pessoais, físicos, mal estar)
+16517;3591;Não pagamento de indenização
+16554;3036;Falta de peca de reposição
+16617;1133;Cobrança indevida.
+16654;3665;Serviço em desacordo com norma/lei
+16706;1548;Publicidade enganosa
+16724;4027;Reajuste praticado em desacordo com a periodicidade permitida
+16734;2403;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+16735;5092;Serviço em desacordo com norma/lei
+16744;2883;Venda enganosa
+16769;6850;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+16787;3939;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+16800;1748;Não comunicação de negativacao
+16877;6313;TOI - Termo de Ocorrência de Irregularidade
+16915;4117;Venda enganosa
+16943;2937;Demora na montagem/montagem incompleta/incorreta
+17088;4114;Venda enganosa
+17124;2637;Não entrega/demora na entrega do produto
+17129;164;Prazo de validade (falta, ilegível, etc.)
+17130;1173;Calculo de prestação/taxa de juros
+17197;3117;Desistência de compra (cancelamento de compra)
+17217;4229;Recusa/mau atendimento
+17220;3903;Rescisão/Substituição/Alteração de contrato de saúde
+17271;6019;Baixa Renda
+17279;4847;Cobrança de multa acima do permitido pela legislação
+17363;5408;Cobrança abusiva mediante constrangimento, ameaça.
+17386;3958;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+17438;6935;Crédito Consignado
+17446;3006;Falta de peca de reposição
+17462;4121;Venda enganosa
+17488;3219;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+17647;1242;Calculo de prestação em atraso
+17693;1353;Fundo de reserva
+17781;3104;Produto entregue incompleto
+17782;4299;Danos pessoais ao consumidor
+17820;7023;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+17879;1523;Não pagamento de resgate (capitalização/ouro/compra)
+17899;4426;Preço do produto/serviço
+17911;2017;Não pagamento de indenização
+17929;135;Peso, volume e quantidade
+17934;125;Peso, volume e quantidade
+17939;120;Peso, volume e quantidade
+17966;1622;Venda enganosa
+17988;6185;Vício do Produto/Serviço
+18026;3859;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+18044;2100;Convenção de condomínio (não cumprimento, votação, destituição de sindico, etc.)
+18051;5189;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+18085;2601;Produto entregue diferente do pedido
+18113;2209;Não entrega do contrato
+18173;2169;Qualidade da construção (vícios, vazamentos, impermeabilização)
+18190;3689;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+18227;2594;Produto entregue diferente do pedido
+18236;5134;Recusa injustificada em prestar serviço
+18504;2869;Venda enganosa
+18507;5662;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+18567;2906;Venda enganosa
+18603;4554;Medição irregular de pressão e peso/inalação (na rua, farmácia ou em outros estabelecimentos)
+18628;4232;Recusa/mau atendimento
+18686;2998;Falta de peca de reposição
+18794;3566;Não pagamento de indenização
+18800;7334;Defeito/Risco à saúde e segurança
+18865;5772;Contrato - Clausula abusiva/em desacordo com a Legislação.
+18928;3442;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+19011;7111;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+19180;5998;Descredenciamento
+19192;1302;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+19258;2928;Demora na montagem/montagem incompleta/incorreta
+19280;4237;Recusa/mau atendimento
+19318;2368;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+19320;162;Prazo de validade (falta, ilegível, etc.)
+19324;1554;Publicidade enganosa
+19341;1491;Não entrega do produto (titulo de capitalização, compra programada)
+19369;5554;Publicidade abusiva.
+19378;4267;Suspeita quanto a qualidade/eficácia do produto/serviço
+19381;7257;Defeito/Risco à saúde e segurança
+19397;2849;Publicidade abusiva
+19408;1357;Reajuste de saldo de caixa/diferença de prestação
+19459;1436;Valor de reajuste (mensalidade)
+19497;3789;Publicidade abusiva.
+19520;5024;Serviço não concluído /Fornecimento parcial
+19534;4950;Vicio de qualidade (mal executado, inadequado, impróprio)
+19554;5380;Cobrança indevida/abusiva
+19565;7233;Defeito/Risco à saúde e segurança
+19597;2020;Não pagamento de indenização
+19677;2431;Rotulagem em língua estrangeira
+19717;1259;Calculo de encargos na cobrança de cheque
+19746;2449;Rotulagem em língua estrangeira
+19766;3352;Produto causou danos materiais
+19778;6086;Antecipação de Financiamento
+19822;1145;Retirada de credito sem comunicação previa.
+19823;5085;Serviço em desacordo com norma/lei
+19830;3762;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+19858;2472;Rotulagem em língua estrangeira
+19868;5820;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+19912;6210;Negativa de Cobertura
+19948;5783;Contrato - Clausula abusiva/em desacordo com a Legislação.
+19957;3475;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+19964;3450;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+20002;4688;Prazo de validade (ilegível/vencido/ausência)
+20003;3994;Reajuste anual de contrato de saúde com percentual elevado
+20005;3276;Acidente de Consumo (produto causou danos pessoais)
+20018;6842;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+20028;6153;Não Entrega de Produto
+20035;1783;Calculo do prêmio (seguros)
+20120;186;Prazo de validade (falta, ilegível, etc.)
+20125;5563;Publicidade abusiva.
+20236;111;Peso, volume e quantidade
+20327;5401;Cobrança indevida/abusiva
+20348;248;Preço (abusivo, remarcado, falta, etc.)
+20364;114;Peso, volume e quantidade
+20398;1243;Calculo de prestação em atraso
+20428;1536;Não pagamento de resgate (capitalização/ouro/compra)
+20477;219;Preço (abusivo, remarcado, falta, etc.)
+20560;59;Não fornecimento de contra vale
+20561;112;Peso, volume e quantidade
+20655;5725;Roubo/furto
+20656;3070;Produto entregue incompleto
+20669;5279;Venda casada
+20702;7258;Defeito/Risco à saúde e segurança
+20727;216;Preço (abusivo, remarcado, falta, etc.)
+20738;37;Cobrança de taxa indevida (couvert, 10%, etc.)
+20754;1067;Envio de produto ou serviço sem previa solicitação
+20777;2748;Publicidade enganosa
+20778;296;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+20796;4941;Vicio de qualidade (mal executado, inadequado, impróprio)
+20802;286;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+20838;236;Preço (abusivo, remarcado, falta, etc.)
+20880;3204;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+20904;206;Preço (abusivo, remarcado, falta, etc.)
+20942;255;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+20949;119;Peso, volume e quantidade
+20984;3015;Falta de peca de reposição
+21234;2327;Garantia (Abrangência, cobertura, etc.)
+21288;1392;Não entrega de quitação/retenção de documentos
+21396;2913;Venda enganosa
+21512;4144;Publicidade enganosa
+21517;7014;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+21530;5502;Venda/Oferta/publicidade enganosa.
+21634;24;Cobrança de taxa indevida (couvert, 10%, etc.)
+21767;5314;Desistência do serviço (artigo 49 - descumprimento)
+21843;4079;Procedimento de cobrança violenta/difamatória
+21873;1794;Calculo do prêmio (seguros)
+21913;122;Peso, volume e quantidade
+21915;50;Cobrança de taxa indevida (couvert, 10%, etc.)
+21917;197;Prazo de validade (falta, ilegível, etc.)
+21939;157;Prazo de validade (falta, ilegível, etc.)
+21955;4998;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+22004;4429;Preço do produto/serviço
+22009;4075;Descumprimento de garantia pelo convênio medico (guia)
+22015;4337;Danos materiais ao consumidor
+22068;2147;Taxa de manutenção/conservação
+22109;2380;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+22129;3459;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+22138;5583;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+22289;2095;Cobrança de despesas extraordinárias
+22311;2812;Publicidade abusiva
+22344;2600;Produto entregue diferente do pedido
+22372;1011;Recusa em receber pagamento de nota promissória, carne, etc.
+22413;5741;Contrato - Rescisão/alteração unilateral
+22591;1221;Calculo de antecipação de prestação
+22601;1516;Não pagamento de resgate (capitalização/ouro/compra)
+22618;1199;Calculo de antecipação de prestação
+22667;87;Não fornecimento de contra vale
+22686;201;Preço (abusivo, remarcado, falta, etc.)
+22709;3255;Acidente de Consumo (produto causou danos pessoais)
+22889;2987;Demora na montagem/montagem incompleta/incorreta
+22895;6701;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+22925;3935;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+22978;5891;Cobrança de embalagem (sacolas)
+23036;2028;Não pagamento de indenização
+23052;1604;Venda casada
+23053;1608;Venda casada
+23298;106;Peso, volume e quantidade
+23347;2877;Venda enganosa
+23360;244;Preço (abusivo, remarcado, falta, etc.)
+23392;1864;Discordância quanto as avarias
+23394;5474;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+23423;2744;Publicidade enganosa
+23449;240;Preço (abusivo, remarcado, falta, etc.)
+23454;31;Cobrança de taxa indevida (couvert, 10%, etc.)
+23455;235;Preço (abusivo, remarcado, falta, etc.)
+23528;247;Preço (abusivo, remarcado, falta, etc.)
+23582;237;Preço (abusivo, remarcado, falta, etc.)
+23747;254;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+23750;64;Não fornecimento de contra vale
+23788;35;Cobrança de taxa indevida (couvert, 10%, etc.)
+23809;4226;Recusa/mau atendimento
+23822;141;Peso, volume e quantidade
+23827;117;Peso, volume e quantidade
+23860;3253;Acidente de Consumo (produto causou danos pessoais)
+23894;84;Não fornecimento de contra vale
+23895;196;Prazo de validade (falta, ilegível, etc.)
+23919;4353;Danos materiais ao consumidor
+23947;3633;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+23950;3063;Produto entregue incompleto
+24043;1249;Calculo de encargos na cobrança de cheque
+24054;113;Peso, volume e quantidade
+24083;267;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+24085;6642;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+24133;118;Peso, volume e quantidade
+24138;7142;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+24176;204;Preço (abusivo, remarcado, falta, etc.)
+24252;2285;Duvidas sobre cobranças (taxas, etc.)
+24283;6197;Vício do Produto/Serviço
+24332;4880;Não cumprimento à oferta
+24357;2862;Publicidade abusiva
+24469;205;Preço (abusivo, remarcado, falta, etc.)
+24488;1616;Venda casada
+24499;3873;Não pagamento de indenização
+24599;3107;Produto entregue incompleto
+24620;2680;Peso/volume/quantidade/tamanho
+24637;3445;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+24639;5102;Serviço em desacordo com norma/lei
+24642;6990;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+24872;103;Peso, volume e quantidade
+24875;156;Prazo de validade (falta, ilegível, etc.)
+24906;6194;Vício do Produto/Serviço
+24923;750;Oferta enganosa
+24960;3208;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+24967;4160;Publicidade enganosa
+25026;17;Cobrança de taxa indevida (couvert, 10%, etc.)
+25063;2777;Publicidade enganosa
+25123;2355;Garantia (Abrangência, cobertura, etc.)
+25129;3439;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+25135;1278;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+25155;3121;Desistência de compra (cancelamento de compra)
+25158;3365;Produto causou danos materiais
+25249;200;Preço (abusivo, remarcado, falta, etc.)
+25250;128;Peso, volume e quantidade
+25286;1158;Retirada de credito sem comunicação previa.
+25289;2516;Produto com vício
+25359;4885;Não pagamento de indenização
+25437;3942;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+25472;60;Não fornecimento de contra vale
+25474;97;Não fornecimento de contra vale
+25478;230;Preço (abusivo, remarcado, falta, etc.)
+25480;46;Cobrança de taxa indevida (couvert, 10%, etc.)
+25536;52;Cobrança de taxa indevida (couvert, 10%, etc.)
+25548;137;Peso, volume e quantidade
+25562;55;Cobrança de taxa indevida (couvert, 10%, etc.)
+25587;2271;Cobrança de multa acima do permitido pela legislação (atraso no pag. de prestação/aluguel/condomínio)
+25721;4817;Cobrança de multa acima do permitido pela legislação
+25724;5877;Não pagamento de indenização
+25737;3191;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+25788;5492;Venda/Oferta/publicidade enganosa.
+25963;5745;Contrato - Rescisão/alteração unilateral
+26034;5186;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+26077;5687;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+26101;4292;Danos pessoais ao consumidor
+26159;7054;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+26184;89;Não fornecimento de contra vale
+26187;207;Preço (abusivo, remarcado, falta, etc.)
+26285;1335;Fundo de reserva
+26355;4138;Venda enganosa
+26367;1589;Publicidade abusiva
+26401;6641;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+26412;5097;Serviço em desacordo com norma/lei
+26487;2215;Devolução de sinal, valores pagos (negocio não concretizado)
+26544;3804;Meia entrada para estudantes - recusa/falta de informação
+26551;2023;Não pagamento de indenização
+26569;1329;Desistência de consorcio
+26576;1386;Não entrega de quitação/retenção de documentos
+26593;5268;Venda casada
+26597;1818;Não pagamento de indenização (seguros em geral)
+26620;5328;Garantia - Descumprimento, prazo
+26725;2673;Não entrega/demora na entrega do produto
+26773;6943;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+26808;2079;Denuncia vazia
+26854;5184;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+26874;1123;Cobrança indevida.
+26883;2691;Peso/volume/quantidade/tamanho
+26892;1908;Valor da multa
+26914;6793;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+26915;5778;Contrato - Clausula abusiva/em desacordo com a Legislação.
+26918;6853;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+26968;5850;Não pagamento de indenização
+26987;3523;Procedimento de cobrança violenta/difamatória
+27088;163;Falta de registro/alvará/autorização junto ao órgão competente
+27109;5886;Não pagamento de indenização
+27197;5188;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+27282;4170;Publicidade enganosa
+27298;6062;Lançamento Não Reconhecido na Fatura
+27300;2508;Produto com vício
+27333;2604;Produto entregue diferente do pedido
+27383;2980;Demora na montagem/montagem incompleta/incorreta
+27397;6700;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+27401;3246;Acidente de Consumo (produto causou danos pessoais)
+27466;1937;Falha bancaria (cheques, ordem de pagamento, etc.)
+27532;3929;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+27563;7272;Defeito/Risco à saúde e segurança
+27568;3026;Falta de peca de reposição
+27621;1225;Calculo de prestação em atraso
+27622;1462;Valor do bem
+27644;2224;Não entrega da escritura
+27753;3282;Acidente de Consumo (produto causou danos pessoais)
+27788;1804;Calculo do prêmio (seguros)
+27790;4288;Danos pessoais ao consumidor
+27798;1310;Desistência de consorcio
+27939;5068;Dano material/pessoal decorrente do serviço
+27987;1031;Recusa em receber pagamento de nota promissória, carne, etc.
+28079;1786;Calculo do prêmio (seguros)
+28098;2255;Publicidade enganosa
+28101;6239;Negativa de Cobertura
+28166;856;Embalagem (amassada, enferrujada, estufada)
+28167;5836;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+28182;6168;Não Entrega de Produto
+28185;2914;Venda enganosa
+28202;165;Prazo de validade (falta, ilegível, etc.)
+28212;7237;Defeito/Risco à saúde e segurança
+28217;3128;Desistência de compra (cancelamento de compra)
+28218;7276;Defeito/Risco à saúde e segurança
+28255;86;Não fornecimento de contra vale
+28316;81;Não fornecimento de contra vale
+28319;54;Cobrança de taxa indevida (couvert, 10%, etc.)
+28338;121;Peso, volume e quantidade
+28404;146;Prazo de validade (falta, ilegível, etc.)
+28411;241;Preço (abusivo, remarcado, falta, etc.)
+28447;159;Prazo de validade (falta, ilegível, etc.)
+28465;221;Preço (abusivo, remarcado, falta, etc.)
+28532;100;Peso, volume e quantidade
+28539;218;Preço (abusivo, remarcado, falta, etc.)
+28541;133;Peso, volume e quantidade
+28646;62;Não fornecimento de contra vale
+28672;242;Preço (abusivo, remarcado, falta, etc.)
+28740;58;Cobrança de taxa indevida (couvert, 10%, etc.)
+28755;33;Cobrança de taxa indevida (couvert, 10%, etc.)
+28821;4020;Reajuste praticado em desacordo com a periodicidade permitida
+28834;6150;Não Entrega de Produto
+28884;6848;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+28894;6981;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+28917;707;Oferta enganosa
+28966;228;Preço (abusivo, remarcado, falta, etc.)
+28987;43;Cobrança de taxa indevida (couvert, 10%, etc.)
+29028;99;Peso, volume e quantidade
+29035;38;Cobrança de taxa indevida (couvert, 10%, etc.)
+29076;1934;Falha bancaria (cheques, ordem de pagamento, etc.)
+29078;5353;Garantia - Descumprimento, prazo
+29119;2047;Não devolução de caução
+29160;5748;Contrato - Rescisão/alteração unilateral
+29296;3408;Compra de veiculo (multa, transferência, alienação, não entrega de documentação)
+29311;187;Prazo de validade (falta, ilegível, etc.)
+29331;1082;Envio de produto ou serviço sem previa solicitação
+29358;2808;Publicidade abusiva
+29518;5625;Meia entrada para estudantes - recusa/falta de informação
+29560;3471;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+29563;6649;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+29642;101;Peso, volume e quantidade
+29664;40;Cobrança de taxa indevida (couvert, 10%, etc.)
+29747;7140;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+29781;95;Não fornecimento de contra vale
+29787;3060;Produto entregue incompleto
+29923;4148;Publicidade enganosa
+30122;1979;Falha bancaria em transações eletrônicas (transferencias indevidas, saques indevidos)
+30154;5119;Serviço em desacordo com norma/lei
+30243;1533;Não pagamento de resgate (capitalização/ouro/compra)
+30256;6515;Tarifas Bancárias – Cobrança não autorizada.
+30261;180;Prazo de validade (falta, ilegível, etc.)
+30288;3834;Roubo/furto
+30437;36;Cobrança de taxa indevida (couvert, 10%, etc.)
+30496;229;Preço (abusivo, remarcado, falta, etc.)
+30502;160;Prazo de validade (falta, ilegível, etc.)
+30508;703;Oferta enganosa
+30556;132;Peso, volume e quantidade
+30596;3251;Acidente de Consumo (produto causou danos pessoais)
+30636;2956;Demora na montagem/montagem incompleta/incorreta
+30710;7086;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+30852;6321;Baixa Renda
+30865;6021;Baixa Renda
+30869;1424;Transferencia de cota
+30938;3148;Desistência de compra (cancelamento de compra)
+31179;6877;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+31198;1563;Publicidade enganosa
+31201;637;Publicidade enganosa
+31254;245;Preço (abusivo, remarcado, falta, etc.)
+31279;3182;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+31336;1796;Calculo do prêmio (seguros)
+31387;3920;Rescisão/Substituição/Alteração de contrato de saúde
+31391;1705;Consumidor negativado indevidamente nos serviços de proteção ao credito
+31403;5842;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+31420;3319;Produto causou danos materiais
+31501;1496;Não entrega do produto (titulo de capitalização, compra programada)
+31509;1560;Publicidade enganosa
+31588;1866;Discordância quanto as avarias
+31627;6059;Lançamento Não Reconhecido na Fatura
+31684;2817;Publicidade abusiva
+31726;2102;Convenção de condomínio (não cumprimento, votação, destituição de sindico, etc.)
+31775;5660;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+31782;5135;Recusa injustificada em prestar serviço
+31838;4929;Vicio de qualidade (mal executado, inadequado, impróprio)
+31911;3777;Venda/Oferta/publicidade enganosa.
+31985;3503;Procedimento de cobrança violenta/difamatória
+32000;1634;Venda enganosa
+32032;3311;Produto causou danos materiais
+32087;1472;Valor do bem
+32109;1899;Valor da multa
+32255;4926;Vicio de qualidade (mal executado, inadequado, impróprio)
+32354;4987;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+32419;6547;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+32438;5797;Contrato - Clausula abusiva/em desacordo com a Legislação.
+32448;3201;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+32506;1493;Não entrega do produto (titulo de capitalização, compra programada)
+32555;4083;Procedimento de cobrança violenta/difamatória
+32611;5604;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+32651;3906;Rescisão/Substituição/Alteração de contrato de saúde
+32666;3458;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+32691;3169;Desistência de compra (cancelamento de compra)
+32697;3832;Roubo/furto
+32917;7263;Defeito/Risco à saúde e segurança
+32922;7254;Defeito/Risco à saúde e segurança
+33130;51;Cobrança de taxa indevida (couvert, 10%, etc.)
+33189;26;Cobrança de taxa indevida (couvert, 10%, etc.)
+33370;189;Prazo de validade (falta, ilegível, etc.)
+33386;44;Cobrança de taxa indevida (couvert, 10%, etc.)
+33610;7088;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+33653;5508;Venda/Oferta/publicidade enganosa.
+33654;5503;Venda/Oferta/publicidade enganosa.
+33683;6135;Não Entrega de Produto
+33727;6095;Antecipação de Financiamento
+33870;56;Cobrança de taxa indevida (couvert, 10%, etc.)
+33872;168;Prazo de validade (falta, ilegível, etc.)
+33908;2848;Publicidade abusiva
+33940;239;Preço (abusivo, remarcado, falta, etc.)
+33950;2890;Venda enganosa
+33969;130;Peso, volume e quantidade
+34052;85;Não fornecimento de contra vale
+34100;29;Cobrança de taxa indevida (couvert, 10%, etc.)
+34151;138;Peso, volume e quantidade
+34158;211;Preço (abusivo, remarcado, falta, etc.)
+34161;110;Peso, volume e quantidade
+34225;2369;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+34226;209;Preço (abusivo, remarcado, falta, etc.)
+34230;2413;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+34254;2015;Não pagamento de indenização
+34287;3909;Rescisão/Substituição/Alteração de contrato de saúde
+34289;1916;Roubo de cartão
+34301;15;Cobrança de taxa indevida (couvert, 10%, etc.)
+34369;215;Preço (abusivo, remarcado, falta, etc.)
+34427;5477;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+34441;4873;Não cumprimento à oferta
+34475;158;Prazo de validade (falta, ilegível, etc.)
+34486;2946;Demora na montagem/montagem incompleta/incorreta
+34487;1847;Discordância na indenização (seguros em geral)
+34507;256;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+34550;243;Preço (abusivo, remarcado, falta, etc.)
+34556;252;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+34561;212;Preço (abusivo, remarcado, falta, etc.)
+34625;5494;Venda/Oferta/publicidade enganosa.
+34671;5425;Cobrança abusiva mediante constrangimento, ameaça.
+34676;6563;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+34722;3203;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+34733;3562;Não pagamento de indenização
+34734;4064;Descumprimento de garantia pelo convênio medico (guia)
+34772;5920;Cobrança de embalagem (sacolas)
+34818;192;Prazo de validade (falta, ilegível, etc.)
+35120;45;Cobrança de taxa indevida (couvert, 10%, etc.)
+35159;178;Prazo de validade (falta, ilegível, etc.)
+35181;6075;Lançamento Não Reconhecido na Fatura
+35187;3910;Rescisão/Substituição/Alteração de contrato de saúde
+35218;259;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+35349;142;Peso, volume e quantidade
+35397;82;Não fornecimento de contra vale
+35421;75;Não fornecimento de contra vale
+35589;5244;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+35814;2210;Não entrega do contrato
+35864;5769;Contrato - Clausula abusiva/em desacordo com a Legislação.
+35973;1596;Venda casada
+35982;1485;Valor do bem
+36018;1808;Não pagamento de indenização (seguros em geral)
+36162;4227;Recusa/mau atendimento
+36182;5755;Contrato - Rescisão/alteração unilateral
+36191;6989;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+36273;4921;Vicio de qualidade (mal executado, inadequado, impróprio)
+36277;3505;Procedimento de cobrança violenta/difamatória
+36279;6499;CET – Não fornecimento de planilha de cálculo / Recusa de cálculo.
+36406;5285;Desistência do serviço (artigo 49 - descumprimento)
+36437;3175;Desistência de compra (cancelamento de compra)
+36525;3075;Produto entregue incompleto
+36576;3852;Contrato - Clausula abusiva/em desacordo com a Legislação.
+36613;3027;Falta de peca de reposição
+36614;3434;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+36664;2268;Cobrança de multa acima do permitido pela legislação (atraso no pag. de prestação/aluguel/condomínio)
+36753;2353;Garantia (Abrangência, cobertura, etc.)
+36813;6006;TOI - Termo de Ocorrência de Irregularidade
+36951;4849;Não cumprimento à oferta
+36958;2520;Produto com vício
+37076;1269;Calculo de encargos na cobrança de cheque
+37078;5241;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+37082;4958;Vicio de qualidade (mal executado, inadequado, impróprio)
+37090;6809;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+37246;5458;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+37382;2243;Não apresentação de valores cobrados a titulo de IPTU
+37615;1831;Não pagamento de indenização (seguros em geral)
+37620;4961;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+37663;3024;Falta de peca de reposição
+37751;472;Procedimento de cobrança violenta e difamatória.
+37958;1187;Calculo de prestação/taxa de juros
+37980;6191;Vício do Produto/Serviço
+38077;3614;Não pagamento de indenização
+38186;6155;Não Entrega de Produto
+38323;5063;Dano material/pessoal decorrente do serviço
+38334;4333;Danos materiais ao consumidor
+38341;5400;Cobrança indevida/abusiva
+38344;5074;Dano material/pessoal decorrente do serviço
+38352;2314;Garantia (Abrangência, cobertura, etc.)
+38362;1482;Valor do bem
+38390;6300;TOI - Termo de Ocorrência de Irregularidade
+38442;2705;Peso/volume/quantidade/tamanho
+38446;1809;Não pagamento de indenização (seguros em geral)
+38459;6898;Fila em Banco
+38461;1894;Valor da multa
+38499;4106;Procedimento de cobrança violenta/difamatória
+38501;6453;CET – Divulgação inadequada / não divulgação nas peças publicitárias.
+38627;5296;Desistência do serviço (artigo 49 - descumprimento)
+38633;5005;Serviço não concluído /Fornecimento parcial
+38653;3313;Produto causou danos materiais
+38662;4295;Danos pessoais ao consumidor
+38717;5719;Roubo/furto
+38752;1391;Não entrega de quitação/retenção de documentos
+38756;5443;Cobrança abusiva mediante constrangimento, ameaça.
+38867;3493;Procedimento de cobrança violenta/difamatória
+38873;1270;Calculo de encargos na cobrança de cheque
+38959;5749;Contrato - Rescisão/alteração unilateral
+39013;6485;CET – Não fornecimento de planilha de cálculo / Recusa de cálculo.
+39068;2981;Demora na montagem/montagem incompleta/incorreta
+39137;4876;Não cumprimento à oferta
+39163;3059;Produto entregue incompleto
+39174;2712;Peso/volume/quantidade/tamanho
+39335;6729;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+39358;3599;Não pagamento de indenização
+39486;1775;Cobrança vexatória/difamatória
+39667;5152;Recusa injustificada em prestar serviço
+39668;1517;Não pagamento de resgate (capitalização/ouro/compra)
+39698;2507;Produto com vício
+39744;3166;Desistência de compra (cancelamento de compra)
+39767;5136;Recusa injustificada em prestar serviço
+39805;4257;Suspeita quanto a qualidade/eficácia do produto/serviço
+39817;3846;Contrato - Rescisão/alteração unilateral
+39831;3312;Produto causou danos materiais
+39832;3713;Venda casada
+40004;274;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+40254;6017;Baixa Renda
+40283;3874;Não pagamento de indenização
+40368;3079;Produto entregue incompleto
+40371;3473;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+40598;5053;Dano material/pessoal decorrente do serviço
+40667;1526;Não pagamento de resgate (capitalização/ouro/compra)
+40702;3826;Roubo/furto
+40708;1547;Publicidade enganosa
+40893;5542;Publicidade abusiva.
+40898;5093;Serviço em desacordo com norma/lei
+40907;3823;Extravio/avaria de bagagem, carga, correspondência, mercadoria, mudança, etc.
+40944;5248;Venda casada
+40974;2999;Falta de peca de reposição
+41107;5110;Serviço em desacordo com norma/lei
+41138;6698;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+41224;5374;Cobrança indevida/abusiva
+41237;5273;Venda casada
+41387;5795;Contrato - Clausula abusiva/em desacordo com a Legislação.
+41401;4519;Falta de assistência técnica/garantia
+41415;2739;Peso/volume/quantidade/tamanho
+41472;5532;Publicidade abusiva.
+41509;2410;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+41559;2328;Garantia (Abrangência, cobertura, etc.)
+41667;1078;Envio de produto ou serviço sem previa solicitação
+41726;7151;Tarifa de Cartão de Crédito – Cobrança Indevida (anuidade, 2ª via, etc.)
+41745;7215;Defeito/Risco à saúde e segurança
+41894;3793;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+42054;2873;Venda enganosa
+42058;3544;Procedimento de cobrança violenta/difamatória
+42156;3803;Meia entrada para estudantes - recusa/falta de informação
+42167;5792;Contrato - Clausula abusiva/em desacordo com a Legislação.
+42308;3664;Serviço em desacordo com norma/lei
+42316;3010;Falta de peca de reposição
+42334;5158;Recusa injustificada em prestar serviço
+42403;2139;Localização/alteração do lote adquirido
+42434;2992;Falta de peca de reposição
+42563;2332;Garantia (Abrangência, cobertura, etc.)
+42572;3099;Produto entregue incompleto
+42631;2577;Produto entregue diferente do pedido
+42647;6309;TOI - Termo de Ocorrência de Irregularidade
+42649;4220;Recusa/mau atendimento
+42661;4338;Danos materiais ao consumidor
+42678;1897;Valor da multa
+42790;2240;Não apresentação de valores cobrados a titulo de IPTU
+42831;5194;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+42862;3681;Recusa injustificada em prestar serviço
+43083;641;Publicidade enganosa
+43126;7247;Defeito/Risco à saúde e segurança
+43180;2344;Garantia (Abrangência, cobertura, etc.)
+43193;6947;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+43214;4953;Vicio de qualidade (mal executado, inadequado, impróprio)
+43342;7063;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+43350;4995;Serviço não fornecido (entrega/instalação/não cumprimento da oferta/contrato)
+43427;3922;Rescisão/Substituição/Alteração de contrato de saúde
+43491;5611;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+43498;2599;Produto entregue diferente do pedido
+43499;1999;Cobrança de honorários advocaticios, despesa de cobrança
+43528;6294;TOI - Termo de Ocorrência de Irregularidade
+43543;6295;TOI - Termo de Ocorrência de Irregularidade
+43570;2762;Publicidade enganosa
+43577;1663;Não entrega de copia do contrato
+43593;3054;Produto entregue incompleto
+43653;7270;Defeito/Risco à saúde e segurança
+43668;3045;Falta de peca de reposição
+43679;5461;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+43696;1637;Venda enganosa
+43818;2018;Não pagamento de indenização
+44058;6573;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+44130;2585;Produto entregue diferente do pedido
+44178;6747;Desbloqueio de aparelho
+44183;5535;Publicidade abusiva.
+44209;7229;Defeito/Risco à saúde e segurança
+44372;5332;Garantia - Descumprimento, prazo
+44375;5849;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+44379;1248;Calculo de prestação em atraso
+44394;5321;Desistência do serviço (artigo 49 - descumprimento)
+44403;5501;Venda/Oferta/publicidade enganosa.
+44457;1887;Discordância quanto as avarias
+44557;5709;Roubo/furto
+44655;3858;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+44822;4842;Cobrança de multa acima do permitido pela legislação
+44922;3072;Produto entregue incompleto
+45080;5808;Contrato - Clausula abusiva/em desacordo com a Legislação.
+45234;3041;Falta de peca de reposição
+45298;4446;Preço do produto/serviço
+45314;1414;Transferencia de cota
+45519;3973;Problemas relativos a emissão/remessa de carnes/orçamentos
+45539;5487;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+45665;7148;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+45750;1220;Calculo de antecipação de prestação
+45804;3836;Contrato - Rescisão/alteração unilateral
+45820;2399;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+45860;4587;Erro na elaboração de formula/produto em desacordo com a formula receita
+45887;5010;Serviço não concluído /Fornecimento parcial
+45890;6746;Portabilidade numérica
+45945;7108;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+45994;5762;Contrato - Rescisão/alteração unilateral
+46274;1552;Publicidade enganosa
+46286;2208;Não entrega do contrato
+46450;7271;Defeito/Risco à saúde e segurança
+46472;4868;Não cumprimento à oferta
+46532;2204;Rescisão do contrato pela venda enganosa
+46625;6498;CET – Não fornecimento de planilha de cálculo / Recusa de cálculo.
+46667;1763;Cobrança vexatória/difamatória
+46699;1495;Não entrega do produto (titulo de capitalização, compra programada)
+46712;4266;Suspeita quanto a qualidade/eficácia do produto/serviço
+46733;4803;Produto danificado/enferrujado/inadequado/mal armazenado
+46742;1727;Consumidor negativado indevidamente nos serviços de proteção ao credito
+46770;297;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+46784;6081;Lançamento Não Reconhecido na Fatura
+46923;6705;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+46931;2821;Publicidade abusiva
+46978;1410;Transferencia de cota
+46980;6038;Cobiling
+47037;4043;Reajuste por alteração de faixa etária (percentual elevado/sem previsão em contrato de percentual ou faixa etária)
+47110;2773;Publicidade enganosa
+47253;5362;Garantia - Descumprimento, prazo
+47254;2657;Não entrega/demora na entrega do produto
+47346;339;Alteração de odor, sabor e aspecto.
+47527;5147;Recusa injustificada em prestar serviço
+47656;4124;Venda enganosa
+48177;3109;Produto entregue incompleto
+48207;5486;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+48241;5323;Desistência do serviço (artigo 49 - descumprimento)
+48252;2795;Publicidade enganosa
+48541;6889;Fila em Banco
+48590;397;Presença de sujidades, larvas e objetos estranhos.
+48789;7240;Defeito/Risco à saúde e segurança
+48799;3449;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+48946;4303;Danos pessoais ao consumidor
+49240;1661;Não entrega de copia do contrato
+49292;179;Prazo de validade (falta, ilegível, etc.)
+49500;1931;Roubo de cartão
+49557;5600;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+49585;5582;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+49621;5823;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+49629;3147;Desistência de compra (cancelamento de compra)
+49686;6166;Não Entrega de Produto
+49711;3074;Produto entregue incompleto
+49738;5345;Garantia - Descumprimento, prazo
+49767;5106;Serviço em desacordo com norma/lei
+49808;5437;Cobrança abusiva mediante constrangimento, ameaça.
+49930;6118;Transação Eletrônica Não Reconhecida
+49948;3502;Procedimento de cobrança violenta/difamatória
+49973;3202;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+50026;5507;Venda/Oferta/publicidade enganosa.
+50106;3572;Não pagamento de indenização
+50155;4249;Suspeita quanto a qualidade/eficácia do produto/serviço
+50201;3931;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+50206;2797;Publicidade enganosa
+50227;6526;Tarifas Bancárias – Divulgação inadequada / não divulgação na agência ou no sítio da Internet.
+50306;5780;Contrato - Clausula abusiva/em desacordo com a Legislação.
+50390;2180;Saldo devedor
+50441;3607;Não pagamento de indenização
+50539;7295;Acidente de Consumo (produto/serviço causou danos pessoais ao consumidor)
+50573;2140;Localização/alteração do lote adquirido
+50595;734;Oferta enganosa
+50719;2643;Não entrega/demora na entrega do produto
+50722;5392;Cobrança indevida/abusiva
+50968;6162;Não Entrega de Produto
+51073;2148;Taxa de manutenção/conservação
+51125;5120;Serviço em desacordo com norma/lei
+51146;4421;Preço do produto/serviço
+51155;3157;Desistência de compra (cancelamento de compra)
+51185;2119;Loteamento irregular
+51197;5100;Serviço em desacordo com norma/lei
+55527;258;Acidente de Consumo
+67581;226;Clonagem
+79195;176;Produto adulterado quanto a cor/odor/sabor/tamanho/aspecto
+80628;181;Não pagamento de indenização
+90009;175;Irregularidade na rotulagem (falta de dados/dados ilegíveis ou incompletos)
+90697;262;Defeito/Risco à saúde e segurança
+90846;0; Não se aplica
+107915;3727;Garantia - Descumprimento, prazo
+107948;4830;Cobrança de multa acima do permitido pela legislação
+108206;3094;Produto entregue incompleto
+108253;2865;Venda enganosa
+108262;13;Cobrança de taxa indevida (couvert, 10%, etc.)
+108277;3467;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+108278;5228;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+108300;7026;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+108318;4433;Preço do produto/serviço
+108322;3029;Falta de peca de reposição
+108359;7066;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+108390;6824;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+108398;660;Publicidade abusiva
+108497;2049;Não devolução de caução
+108519;3412;Compra de veiculo (multa, transferência, alienação, não entrega de documentação)
+108529;7275;Defeito/Risco à saúde e segurança
+108535;4638;Peso/volume/quantidade/tamanho
+108560;5371;Cobrança indevida/abusiva
+108593;3606;Não pagamento de indenização
+108654;3715;Desistência do serviço (artigo 49 - descumprimento)
+108754;6711;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+108757;5606;Documentos: não fornecimento (escolares, recibo, nota, fiscal, vaucher , etc.)
+108792;6448;CET – Divulgação inadequada / não divulgação nas peças publicitárias.
+108876;2638;Não entrega/demora na entrega do produto
+108894;3173;Desistência de compra (cancelamento de compra)
+108915;6622;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+108919;3736;Garantia - Descumprimento, prazo
+108949;2714;Peso/volume/quantidade/tamanho
+108978;6634;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+108999;7274;Defeito/Risco à saúde e segurança
+109016;1730;Não comunicação de negativacao
+109021;2968;Demora na montagem/montagem incompleta/incorreta
+109074;5734;Contrato - Rescisão/alteração unilateral
+109081;4915;Não pagamento de indenização
+109114;2936;Demora na montagem/montagem incompleta/incorreta
+109117;1660;Não entrega de copia do contrato
+109130;4127;Venda enganosa
+109167;3763;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+109224;823;Irregularidade na rotulagem (falta de dados, dados ilegíveis, outros)
+109371;6585;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+109373;1766;Cobrança vexatória/difamatória
+109400;6865;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+109420;4816;Produto danificado/enferrujado/inadequado/mal armazenado
+109458;1097;Contrato (não cumprimento, alteração, transferencia, irregularidade, rescisão, etc.)
+109590;3864;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+109591;2771;Publicidade enganosa
+109726;3960;Problemas relativos a emissão/remessa de carnes/orçamentos
+109739;6178;Vício do Produto/Serviço
+109823;3925;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+109826;7091;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+109900;5167;Orçamento - Não cumprido/não fornecido/impreciso/incompleto/serviço não solicitado
+109962;3479;Cobrança de valor quando o produto e devolvido (cobrança indevida)
+109967;1124;Cobrança indevida.
+109993;3526;Procedimento de cobrança violenta/difamatória
+110094;6951;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+110099;5452;Duvida sobre cobrança/valor/reajuste/contrato/orçamento.
+110104;2690;Peso/volume/quantidade/tamanho
+110110;22;Cobrança de taxa indevida (couvert, 10%, etc.)
+110192;3343;Produto causou danos materiais
+110195;2677;Peso/volume/quantidade/tamanho
+110223;2663;Não entrega/demora na entrega do produto
+110224;2708;Peso/volume/quantidade/tamanho
+110228;4702;Irregularidade na rotulagem (falta de dados/dados ilegíveis ou incompletos)
+110231;7208;Acidente de Consumo
+110304;2888;Venda enganosa
+110323;2146;Taxa de manutenção/conservação
+110409;2572;Produto entregue diferente do pedido
+110476;7174;Defeito/Risco à saúde e segurança
+110533;2579;Produto entregue diferente do pedido
+110534;4705;Irregularidade na rotulagem (falta de dados/dados ilegíveis ou incompletos)
+110569;266;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+110681;3106;Produto entregue incompleto
+110778;1835;Discordância na indenização (seguros em geral)
+110821;4221;Recusa/mau atendimento
+110836;1006;Não pagamento de indenização
+110859;7171;Defeito/Risco à saúde e segurança
+110912;2229;Cobrança de honorários advocaticios extrajudicial
+110943;7141;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+110979;4453;Não utilização/reutilização de material descartável
+111028;7106;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+111045;651;Publicidade enganosa
+111076;3626;Vicio de qualidade (mal executado, inadequado, impróprio)
+111091;2791;Publicidade enganosa
+111106;2331;Garantia (Abrangência, cobertura, etc.)
+111118;5002;Serviço não concluído /Fornecimento parcial
+111164;6396;Clonagem
+111186;5506;Venda/Oferta/publicidade enganosa.
+111199;1044;Limitação de horário de pagamento
+111242;740;Oferta enganosa
+111253;6629;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+111254;1807;Calculo do prêmio (seguros)
+111391;4690;Prazo de validade (ilegível/vencido/ausência)
+111481;1625;Venda enganosa
+111488;4836;Cobrança de multa acima do permitido pela legislação
+111495;4094;Procedimento de cobrança violenta/difamatória
+111552;1502;Não entrega do produto (titulo de capitalização, compra programada)
+111557;5109;Serviço em desacordo com norma/lei
+111597;3236;Contrato/pedido/orçamento (rescisão, descumprimento, erro, etc.)
+111662;7124;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+111852;3416;Compra de veiculo (multa, transferência, alienação, não entrega de documentação)
+111887;1561;Publicidade enganosa
+111979;1709;Consumidor negativado indevidamente nos serviços de proteção ao credito
+112102;2537;Produto com vício
+112204;5904;Cobrança de embalagem (sacolas)
+112220;736;Oferta enganosa
+112290;6189;Vício do Produto/Serviço
+112344;2700;Peso/volume/quantidade/tamanho
+112357;5312;Desistência do serviço (artigo 49 - descumprimento)
+112359;4324;Danos materiais ao consumidor
+112409;7277;Defeito/Risco à saúde e segurança
+112412;4715;Irregularidade na rotulagem (falta de dados/dados ilegíveis ou incompletos)
+112421;7149;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+112472;5032;Serviço não concluído /Fornecimento parcial
+112483;4339;Danos materiais ao consumidor
+112501;4582;Erro na elaboração de formula/produto em desacordo com a formula receita
+112617;4882;Não cumprimento à oferta
+112618;2366;Manual de Instrução (em língua estrangeira/falta de informação/informação incorreta)
+112626;6284;TOI - Termo de Ocorrência de Irregularidade
+112821;1675;Documentos assinados com espaços em branco
+112842;3954;Outros problemas com contratos de saúde (Não cobertura, abrangência, reembolso)
+112879;3677;Recusa injustificada em prestar serviço
+112907;4907;Não pagamento de indenização
+112914;6661;SAC - Cancelamento de serviço (retenção, demora, não envio do comprovante)
+112923;3622;Vicio de qualidade (mal executado, inadequado, impróprio)
+112933;7269;Defeito/Risco à saúde e segurança
+112973;2841;Publicidade abusiva
+113025;1656;Não entrega de copia do contrato
+113051;1591;Publicidade abusiva
+113163;5627;Meia entrada para estudantes - recusa/falta de informação
+113177;3172;Desistência de compra (cancelamento de compra)
+113205;5234;Reajuste abusivo (preço, taxa, mensalidade, etc.)
+113217;7183;Defeito/Risco à saúde e segurança
+113256;1684;Documentos assinados com espaços em branco
+113284;5969;Reajuste sem previsão contratual
+113297;3638;Serviço não concluído /Fornecimento parcial
+113346;970;Não pagamento de indenização
+113353;7046;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+113490;6813;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+113637;3718;Desistência do serviço (artigo 49 - descumprimento)
+113747;2275;Procedimentos de cobrança violenta/difamatória
+113780;4434;Preço do produto/serviço
+113804;39;Cobrança de taxa indevida (couvert, 10%, etc.)
+113806;6994;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+113815;6140;Não Entrega de Produto
+113826;3870;Não pagamento de indenização
+113841;3976;Problemas relativos a emissão/remessa de carnes/orçamentos
+113936;822;Irregularidade na rotulagem (falta de dados, dados ilegíveis, outros)
+113971;271;Má prestação de serviço (recusa, mau atendimento, sonegação de mercadoria, venda casada, entrega diferente do pedido)
+114004;2766;Publicidade enganosa
+114090;5423;Cobrança abusiva mediante constrangimento, ameaça.
+114115;5249;Venda casada
+114176;7172;Defeito/Risco à saúde e segurança
+114220;3149;Desistência de compra (cancelamento de compra)
+114381;4897;Não pagamento de indenização
+114723;5246;Venda casada
+114842;5818;Consulta Sobre Serviços (Pesquisa, cartilha, endereços, outros)
+114889;7041;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+114891;6625;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+114960;6999;SAC - Qualidade do atendimento (atendente despreparado, problemas com a transferência da chamada, veiculação de mensagem publicitária)
+115001;2198;Rescisão do contrato pela não entrega do imóvel
+115006;7103;SAC - Resolução de demandas (ausência de resposta, excesso de prazo, não suspensão imediata da cobrança)
+115070;4730;Irregularidade na rotulagem (falta de dados/dados ilegíveis ou incompletos)
+115210;6709;SAC - Acompanhamento de demandas (ausência de registro numérico, não envio do histórico/registro)
+115275;2746;Publicidade enganosa
+115288;6207;Negativa de Cobertura
+115325;4589;Erro na elaboração de formula/produto em desacordo com a formula receita
+115385;6559;SAC - Acesso ao serviço (onerosidade, problemas no menu, indisponibilidade, inacessibilidade aos deficientes)
+115417;7217;Defeito/Risco à saúde e segurança
+115424;4799;Produto danificado/enferrujado/inadequado/mal armazenado
+115530;1361;Reajuste de saldo de caixa/diferença de prestação
+115606;1296;Autorização de faturamento/entrega do bem/carta de credito (não entrega, atualização, valor menor)
+115618;2174;Aplicação da tabela price
