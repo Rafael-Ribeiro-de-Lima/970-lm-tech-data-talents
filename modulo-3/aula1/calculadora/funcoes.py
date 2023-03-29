@@ -16,7 +16,7 @@ def divisao(a, b):
         if b != 0:
             return a/b
         else:
-            raise ZeroDivisionError("Divisão por zero!")
+            raise ZeroDivisionError("Divisão por Zero!")
     else:
         raise TypeError("Os inputs devem ser do tipo float ou int")
     
