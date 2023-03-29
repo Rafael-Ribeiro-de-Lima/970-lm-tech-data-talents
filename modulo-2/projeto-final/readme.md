@@ -3,20 +3,20 @@ Sistema Nacional de Informações de Defesa do Consumidor (SINDEC- Procons), dis
 https://dados.mj.gov.br/dataset/cadastro-nacional-de-reclamacoes-fundamentadas-procons-sindec
 
 Essa base de dados consiste de Reclamações fundamentadas dos consumidores que não conseguiram
-resolver seus problemas por caminhos mais simples,e então necessitam realizar uma audiência para tentativa 
+resolver seus problemas por caminhos mais simples, e então necessitam realizar uma audiência para tentativa 
 de resolução, o que pode acontecer tanto pela complexidade da demanda, quanto pelo tipo de postura
 adotado pelo fornecedor na resolução do conflito.
 
-Para concluir o objetivo deste relatório, primeiramente é necessario realizar a consolidação dos dados,
-uma vez que eles são disponibilizados em arquivos anuais. Foi determinado que os dados a serem analisados correspondem 
-ao periodo entre os anos de 2017 e 2021.
-Posteriormente será feita uma avaliação com o intuito de identificar possíveis normalizações ou otimizações a serem feitas nas
-tabelas. Finalmente as tabelas organizadas serão copiadas para um banco POSTGRESQL aonde serão feitas as queries
-para investigarmos os dados.
+Para concluir o objetivo deste relatório, primeiramente foi necessario realizar a consolidação dos dados (originalmente
+em formato .csv) disponibilizados em arquivos anuais. Foram analisados os dados correspondentes aos anos 2017 a 2021.
+
+Posteriormente foi feita uma avaliação com o intuito de identificar possíveis normalizações ou otimizações a serem feitas nas
+tabelas. Por fim, as tabelas organizadas foram importadas em um banco de dados POSTGRESQL onde foram feitas as queries
+para análise dos dados.
 
 O relatório final atualizado pode ser visualizado no arquivo "Procon_Kelvin_e_Rafael.ipynb".
 
-Trabalho desenvolvido durante o curso LM Tech Data Talents - ministrado pela escola ADA em parceria com a Leroy Merlin por :
+Trabalho desenvolvido durante o curso LM Tech Data Talents - ministrado pela escola ADA em parceria com a Leroy Merlin por:
 
 Rafael Ribeiro Lima - https://www.linkedin.com/in/rafael-ribeiro-de-lima/
 
