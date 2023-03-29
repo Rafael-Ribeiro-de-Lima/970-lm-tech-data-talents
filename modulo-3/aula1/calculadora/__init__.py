@@ -1,4 +1,3 @@
-'''
 from funcoes import soma
 from funcoes import subtracao
 from funcoes import divisao
@@ -18,5 +17,5 @@ def calcule():
     print(funcs[funcao](a, b))
 
 calcule()
-'''
+
 
