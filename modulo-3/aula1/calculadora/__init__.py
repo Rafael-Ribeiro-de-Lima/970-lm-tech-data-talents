@@ -7,6 +7,10 @@ from funcoes import multiplicacao
 def calcule():
     a = input('Digite um valor: ')
     b = input('Digite um segundo valor: ')
+    try:
+        a, b = float(a), float(b)
+    except:
+        pass
 
     while True:
         funcao = input('Escolha a função desejada (+, -, /, *): ')
