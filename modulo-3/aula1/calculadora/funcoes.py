@@ -20,5 +20,9 @@ def divisao(a, b):
     except:
         return "Os inputs devem ser do tipo float ou int"
     
-
+def multiplicacao(a, b):
+    try:
+        return float(a) * float(b)
+    except:
+        return "Os inputs devem ser do tipo float ou int"
 
