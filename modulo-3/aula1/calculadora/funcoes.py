@@ -1,28 +1,28 @@
 def soma(a, b):
-    try:
+    if isinstance(a, (int, float)) and isinstance(b, (int, float)):
         return float(a) + float(b)
-    except:
-        return "Os inputs devem ser do tipo float ou int"
+    else:
+        raise TypeError("Os inputs devem ser do tipo float ou int")
     
 def subtracao(a, b):
-    try:
+    if isinstance(a, (int, float)) and isinstance(b, (int, float)):
         return float(a) - float(b)
-    except:
-        return "Os inputs devem ser do tipo float ou int"
+    else:
+        raise TypeError("Os inputs devem ser do tipo float ou int")
     
 def divisao(a, b):
-    try:
+    if isinstance(a, (int, float)) and isinstance(b, (int, float)):
         a, b = float(a), float(b)
         if b != 0:
             return a/b
         else:
             return "Divisão por zero!"
-    except:
-        return "Os inputs devem ser do tipo float ou int"
+    else:
+        raise TypeError("Os inputs devem ser do tipo float ou int")
     
 def multiplicacao(a, b):
-    try:
+    if isinstance(a, (int, float)) and isinstance(b, (int, float)):
         return float(a) * float(b)
-    except:
-        return "Os inputs devem ser do tipo float ou int"
+    else:
+        raise TypeError("Os inputs devem ser do tipo float ou int")
 
