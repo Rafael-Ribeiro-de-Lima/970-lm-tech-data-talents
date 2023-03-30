@@ -14,5 +14,5 @@ Rafael Ribeiro de Lima - https://www.linkedin.com/in/rafael-ribeiro-de-lima/ - h
 
 Gabriel Mourão - -
 
-William Erthal - - 
+William Erthal - https://www.linkedin.com/in/william-james-erthal-15b99928 - https://github.com/wjerthal
 
