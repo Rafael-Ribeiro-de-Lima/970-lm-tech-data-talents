@@ -18,6 +18,6 @@ O relatório final atualizado pode ser visualizado no arquivo "Procon_Kelvin_e_R
 
 Trabalho desenvolvido durante o curso LM Tech Data Talents - ministrado pela escola ADA em parceria com a Leroy Merlin por:
 
-Rafael Ribeiro Lima - https://www.linkedin.com/in/rafael-ribeiro-de-lima/
+Rafael Ribeiro Lima - [Linkedin](https://www.linkedin.com/in/rafael-ribeiro-de-lima/) - [Github](https://github.com/Rafael-Ribeiro-de-Lima)
 
-Kelvin Pichinini - https://www.linkedin.com/in/kelvinpichinini/ || https://github.com/KelvinPichinini
+Kelvin Pichinini - [Linkedin](https://www.linkedin.com/in/kelvinpichinini/) - [Github](https://github.com/KelvinPichinini)
