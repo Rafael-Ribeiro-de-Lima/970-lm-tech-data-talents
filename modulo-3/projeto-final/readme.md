@@ -1,6 +1,6 @@
-## Projeto Final do Módulo 3 do curso LM Tech Data Talents da Ada em parceria com a Leroy Merlin
-
 # Análise Exploratória de Dados com Pandas
+
+## Projeto Final do Módulo 3 do curso LM Tech Data Talents da Ada em parceria com a Leroy Merlin
 
 Nesse projeto, foram utilizados dados fictícios de investidores fornecidos por meio de dois arquivos .csv, "cadastro.csv" e "investimento.csv", para que fosse realizada a análise exploratória utilizando a biblioteca Pandas.
 
