@@ -1,4 +1,4 @@
-## Projeto Final do Módulo 2 do curso LM Tech Data Talents da Ada em parceria com a Leroy Merlin
+## Projeto Final do Módulo 3 do curso LM Tech Data Talents da Ada em parceria com a Leroy Merlin
 
 # Análise Exploratória de Dados com Pandas
 
