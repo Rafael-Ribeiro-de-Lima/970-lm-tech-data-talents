@@ -10,9 +10,9 @@ O objetivo geral deste projeto é responder aos questionamentos que podem ser vi
 
 Projeto desenvolvido por:
 
-Rafael Ribeiro de Lima - https://www.linkedin.com/in/rafael-ribeiro-de-lima/ - https://github.com/Rafael-Ribeiro-de-Lima
+Rafael Ribeiro de Lima - [Github](https://github.com/Rafael-Ribeiro-de-Lima) - [Linkedin](https://www.linkedin.com/in/rafael-ribeiro-de-lima/) 
 
-Gabriel Mourão - -
+Gabriel Mourão - [Github](https://github.com/gbmourao) - [Linkedin](https://www.linkedin.com/in/gabriel-mour%C3%A3o-514b61a1/)
 
-William Erthal - https://www.linkedin.com/in/william-james-erthal-15b99928 - https://github.com/wjerthal
+William Erthal - [Github](https://github.com/wjerthal) - [Linkedin](https://www.linkedin.com/in/william-james-erthal-15b99928)
 
