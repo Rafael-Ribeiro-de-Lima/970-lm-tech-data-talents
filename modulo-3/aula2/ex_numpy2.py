@@ -32,5 +32,5 @@ print(f'Os valores médios em cada linha são: {media_por_linha}')
 
 '6-) Qual a média da matriz?'
 
-media_por_coluna = matriz.mean(axis=1)
-print(f'Os valores médios em cada coluna são: {media_por_coluna}')
+media = matriz.mean()
+print(f'O valor médio da matriz é: {media}')
