@@ -2,7 +2,6 @@ import numpy as np
 
 '1-) Crie um array aleatório de 15 itens entre 0 e 100'
 
-np.random.seed(2)
 array = np.random.randint(0, 101, size=15)
 print(f'Array: {array}')
 
