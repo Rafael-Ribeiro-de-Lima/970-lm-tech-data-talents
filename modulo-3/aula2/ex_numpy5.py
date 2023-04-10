@@ -20,3 +20,4 @@ print(f'Array: \n{array}')
 print(f'\nSeno: \n{sen}')
 print(f'\nCosseno: \n{cos}')
 print(f'\nLog2: \n{log2}')
+
