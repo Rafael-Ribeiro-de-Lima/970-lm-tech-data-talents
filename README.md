@@ -6,6 +6,8 @@ No decorrer de cada módulo, serão aprofundados assuntos como técnicas de prog
 
 Nos links abaixo, é possível acessar cada projeto final dos módulos do curso.
 
-[Projeto Módulo 2 - Análise de Reclamações no Procon](https://github.com/Rafael-Ribeiro-de-Lima/970-lm-tech-data-talents/tree/main/modulo-2/projeto-final)
+[Projeto Módulo 1 - Spotipy - Simulação de Streaming com Arquivos Json](https://github.com/Rafael-Ribeiro-de-Lima/970-lm-tech-data-talents/tree/main/modulo-2/projeto-final)
 
-[Projeto Módulo 3 - Análise Exploratória de Dados de Investidores](https://github.com/Rafael-Ribeiro-de-Lima/970-lm-tech-data-talents/tree/main/modulo-3/projeto-final)
+[Projeto Módulo 2 - Análise de Reclamações no Procon com Postgres e Pandas](https://github.com/Rafael-Ribeiro-de-Lima/970-lm-tech-data-talents/tree/main/modulo-2/projeto-final)
+
+[Projeto Módulo 3 - Análise Exploratória de Dados de Investidores com Pandas](https://github.com/Rafael-Ribeiro-de-Lima/970-lm-tech-data-talents/tree/main/modulo-3/projeto-final)
