@@ -1,6 +1,6 @@
 # Arquivos do Curso LM Tech Data Talents
 
-O LM Tech Data Talents é um programa de formação patrocinado pela Leroy Merlin em parceria com a Ada Tech, cujo objetivo é capacitar novos talentos em dados.
+O LM Tech Data Talents é um programa de formação patrocinado pela Leroy Merlin em parceria com a Ada Tech, cujo objetivo é capacitar novos talentos em dados. Para sermos aprovados, passamos por um processo seletivo com mais de 15 mil inscritos, dos quais 30 foram selecionados para compor a turma.
 
 No decorrer de cada módulo, serão aprofundados assuntos como técnicas de programação em Python, Git, Numpy, Pandas, Estatística, Machine Learning, Scikit Learn, entre outros.
 
